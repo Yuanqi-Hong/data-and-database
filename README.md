@@ -1,2 +1,2 @@
 # data-and-database
-Data and Database (Columbia Journalism School, 2018)
+Part of the assignments and classworks from Data and Database (Columbia Journalism School, 2018)
