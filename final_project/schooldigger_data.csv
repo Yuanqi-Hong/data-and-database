@@ -1,0 +1,1034 @@
+city,county,district,grades,number_alt_schools,number_elementary_schools,number_high_schools,number_middle_schools,rank,rank_2016,rank_change,rank_score_2017,sd_rating
+Brooklyn,Kings,Success Academy Charter School - Bed Stuy 1,K-6,0,1,0,0,1st,2,1,0.998,5
+New York,New York,Success Academy Charter School-Upper West,K-6,0,1,0,0,2nd,3,1,0.997,5
+Bronx,Bronx,Success Academy Charter School-Bronx 1,K-7,0,1,0,0,3rd,1,2,0.996,5
+Bronx,Bronx,Success Academy Charter School-Bronx 2,K-7,0,1,0,0,4th,4,,0.995,5
+Brooklyn,Kings,Success Academy Charter School-Crown Heights,K-4,0,1,0,0,5th,,(n/a),0.995,5
+New York,New York,Success Academy Charter School-Hell's Kitchen,K-4,0,1,0,0,6th,,(n/a),0.994,5
+Brooklyn,Kings,Success Academy Charter School-Cobble Hill,K-5,0,1,0,0,7th,6,1,0.993,5
+New York,New York,Success Academy Charter School-Harlem 5,K-7,0,1,0,0,8th,5,3,0.989,5
+Brooklyn,Kings,Success Academy Charter School-Prospect Heights,K-4,0,1,0,0,9th,,(n/a),0.989,5
+Brooklyn,Kings,Success Academy Charter School-Bed Stuy 2,K-5,0,1,0,0,10th,9,1,0.989,5
+New York,New York,Success Academy Charter School-Union Square,K-4,0,1,0,0,11th,,(n/a),0.988,5
+Bronx,Bronx,Success Academy Charter School-Bronx 3,K-4,0,1,0,0,12th,,(n/a),0.987,5
+Jericho,Nassau,Jericho Union Free School District,"PK, KG-12",0,3,1,1,13th,10,3,0.984,5
+Brooklyn,Kings,Success Academy Charter School-Williamsburg,K-5,0,1,0,0,14th,17,3,0.983,5
+Scarsdale,Westchester,Scarsdale Union Free School District,K-12,0,5,1,1,15th,13,2,0.979,5
+Brooklyn,Kings,Success Academy Charter School-Fort Greene,K-4,0,1,0,0,16th,,(n/a),0.977,5
+Bronxville,Westchester,Bronxville Union Free School District,K-12,0,1,1,1,17th,16,1,0.976,5
+Bronx,Bronx,South Bronx Classical Charter School,K-8,0,1,0,0,18th,7,11,0.976,5
+Syosset,Nassau,Syosset Central School District,K-12,0,7,1,2,19th,25,6,0.972,5
+Manhasset,Nassau,Manhasset Union Free School District,K-12,0,2,1,1,20th,12,8,0.97,5
+Scarsdale,Westchester,Edgemont Union Free School District,K-12,0,2,1,0,21st,14,7,0.967,5
+Chappaqua,Westchester,Chappaqua Central School District,K-12,0,3,1,2,22nd,22,,0.966,5
+Briarcliff Manor,Westchester,Briarcliff Manor Union Free School District,K-12,0,1,1,1,23rd,19,4,0.961,5
+Bronx,Bronx,Icahn Charter School 4,K-8,0,1,0,0,24th,8,16,0.961,5
+Bronx,Bronx,Icahn Charter School 5,K-7,0,1,0,0,25th,18,7,0.96,5
+Garden City,Nassau,Garden City Union Free School District,K-12,0,5,1,1,26th,20,6,0.957,5
+Sea Cliff,Nassau,North Shore Central School District,K-12,1,3,1,0,27th,27,,0.956,5
+Pittsford,Monroe,Pittsford Central School District,K-12,0,5,2,2,28th,24,4,0.954,5
+Roslyn,Nassau,Roslyn Union Free School District,"PK, KG-12",0,3,1,1,29th,54,25,0.954,5
+Irvington,Westchester,Irvington Union Free School District,K-12,0,2,1,1,30th,72,42,0.953,5
+Bronx,Bronx,South Bronx Classical Charter School II,K-4,0,1,0,0,31st,,(n/a),0.953,5
+South Salem,Westchester,Katonah-Lewisboro Union Free School District,K-12,0,3,1,1,32nd,31,1,0.951,5
+New Hyde Park,Nassau,Herricks Union Free School District,K-12,0,3,1,1,33rd,26,7,0.95,5
+Armonk,Westchester,Byram Hills Central School District,K-12,0,2,1,1,34th,21,13,0.948,5
+Old Westbury,Nassau,East Williston Union Free School District,K-12,0,1,1,1,35th,57,22,0.947,5
+New Hyde Park,Nassau,New Hyde Park-Garden City Park Union Free School District,K-6,0,4,0,0,36th,47,11,0.944,5
+Eastchester,Westchester,Eastchester Union Free School District,K-12,1,3,1,0,37th,45,8,0.944,5
+Rye,Westchester,Rye City School District,K-12,0,3,1,1,38th,49,11,0.941,5
+Cold Spring Harbor,Suffolk,Cold Spring Harbor Central School District,K-12,0,3,1,0,39th,48,9,0.94,5
+Rye Brook,Westchester,Blind Brook-Rye Union Free School District,K-12,1,1,0,1,40th,33,7,0.936,5
+Elmhurst,Queens,Central Queens Academy Charter School,5-8,0,0,0,1,41st,23,18,0.936,5
+Hastings On Hudson,Westchester,Hastings-On-Hudson Union Free School District,K-12,0,1,1,1,42nd,36,6,0.935,5
+Ardsley,Westchester,Ardsley Union Free School District,K-12,0,1,1,1,43rd,34,9,0.932,5
+Quogue,Suffolk,Quogue Union Free School District,"PK, KG-6",0,1,0,0,44th,11,33,0.932,5
+Westbury,Nassau,East Meadow Union Free School District,K-12,1,5,2,2,45th,35,10,0.931,5
+Bronx,Bronx,Icahn Charter School 2,K-8,0,1,0,0,46th,50,4,0.927,5
+Pleasantville,Westchester,Pleasantville Union Free School District,K-12,0,1,1,1,47th,43,4,0.926,5
+Brooklyn,Kings,Hellenic Classical Charter School,"PK, KG-8",0,1,0,0,48th,69,21,0.924,5
+Plainview,Nassau,Plainview-Old Bethpage Central School District,K-12,0,5,1,2,49th,55,6,0.922,5
+Rochester,Monroe,Penfield Central School District,K-12,0,4,1,1,50th,42,8,0.921,5
+Wantagh,Nassau,Wantagh Union Free School District,K-12,0,3,1,1,51st,58,7,0.92,5
+Voorheesville,Albany,Voorheesville Central School District,K-12,0,1,1,1,52nd,32,20,0.919,5
+Manlius,Onondaga,Fayetteville-Manlius Central School District,K-12,0,3,1,2,53rd,30,23,0.917,5
+Sleepy Hollow,Westchester,Pocantico Hills Central School District,"PK, KG-8",0,1,0,0,54th,97,43,0.916,5
+Merrick,Nassau,Merrick Union Free School District,K-6,0,3,0,0,55th,28,27,0.915,5
+Bronx,Bronx,Family Life Academy Charter School II,K-5,0,1,0,0,56th,15,41,0.913,5
+Pearl River,Rockland,Pearl River Union Free School District,K-12,0,3,1,1,57th,56,1,0.912,5
+Skaneateles,Onondaga,Skaneateles Central School District,K-12,0,2,1,1,58th,61,3,0.91,5
+Clarence,Erie,Clarence Central School District,K-12,0,4,1,1,59th,44,15,0.909,5
+Rochester,Monroe,Brighton Central School District,K-12,0,2,1,1,60th,38,22,0.908,5
+Pelham,Westchester,Pelham Union Free School District,K-12,0,4,1,1,61st,65,4,0.905,5
+Bethpage,Nassau,Bethpage Union Free School District,K-12,0,3,1,1,62nd,51,11,0.904,5
+North Salem,Westchester,North Salem Central School District,K-12,1,1,0,0,63rd,59,4,0.902,5
+Croton On Hudson,Westchester,Croton-Harmon Union Free School District,K-12,0,1,1,1,64th,46,18,0.901,5
+New York,New York,Neighborhood Charter School Of Harlem,K-5,0,1,0,0,65th,37,28,0.899,5
+Mamaroneck,Westchester,Rye Neck Union Free School District,K-12,0,2,1,1,66th,40,26,0.896,5
+Great Neck,Nassau,Great Neck Union Free School District,"PK, KG-12",0,5,3,2,67th,29,38,0.894,5
+Stony Brook,Suffolk,Three Village Central School District,K-12,2,5,1,0,68th,71,3,0.893,5
+Honeoye Falls,Monroe,Honeoye Falls-Lima Central School District,K-12,0,2,1,1,69th,53,16,0.892,5
+Locust Valley,Nassau,Locust Valley Central School District,K-12,2,2,0,0,70th,52,18,0.892,5
+Floral Park,Nassau,Floral Park-Bellerose Union Free School District,"PK, KG-6",0,2,0,0,71st,114,43,0.889,5
+East Aurora,Erie,East Aurora Union Free School District,K-12,0,1,1,1,72nd,67,5,0.889,5
+Greenlawn,Suffolk,Harborfields Central School District,K-12,0,2,1,1,73rd,60,13,0.888,5
+Lockport,Niagara,Starpoint Central School District,K-12,0,2,1,1,74th,77,3,0.882,5
+Menands,Albany,Menands Union Free School District,K-8,0,1,0,0,75th,76,1,0.879,5
+De Witt,Onondaga,Jamesville-Dewitt Central School District,K-12,0,3,1,1,76th,80,4,0.879,5
+East Amherst,Erie,Williamsville Central School District,K-12,0,6,3,4,77th,66,11,0.878,5
+Middle Village,Queens,Middle Village Preparatory Charter School,6-8,0,0,0,1,78th,184,106,0.876,5
+Dobbs Ferry,Westchester,Dobbs Ferry Union Free School District,K-12,0,1,1,1,79th,101,22,0.876,5
+Dix Hills,Suffolk,Half Hollow Hills Central School District,K-12,0,5,2,2,80th,86,6,0.875,5
+Port Jefferson,Suffolk,Port Jefferson Union Free School District,"PK, KG-12",0,1,1,1,81st,39,42,0.874,5
+Mount Sinai,Suffolk,Mount Sinai Union Free School District,K-12,0,1,1,1,82nd,130,48,0.874,4
+Rochester,Monroe,West Irondequoit Central School District,K-12,0,8,1,1,83rd,102,19,0.87,4
+Greenlawn,Suffolk,Elwood Union Free School District,K-12,0,2,1,1,84th,110,26,0.869,4
+Yorktown Heights,Westchester,Yorktown Central School District,K-12,0,3,1,1,85th,82,3,0.867,4
+Schenectady,Schenectady,Niskayuna Central School District,K-12,0,5,1,2,86th,62,24,0.866,4
+Delmar,Albany,Bethlehem Central School District,K-12,0,5,1,1,87th,79,8,0.865,4
+East Greenbush,Rensselaer,East Greenbush Central School District,K-12,1,4,1,1,88th,63,25,0.863,4
+Saratoga Springs,Saratoga,Saratoga Springs City School District,K-12,0,6,1,1,89th,84,5,0.86,4
+Yonkers,Westchester,Charter School Of Educational Excellence,K-8,0,1,0,0,90th,73,17,0.86,4
+Bronx,Bronx,Icahn Charter School 3,K-8,0,1,0,0,91st,192,101,0.86,4
+Marcellus,Onondaga,Marcellus Central School District,K-12,0,2,1,0,92nd,64,28,0.857,4
+Monroe,Orange,Greenwood Lake Union Free School District,K-8,0,2,0,0,93rd,179,86,0.856,4
+Brooklyn,Kings,Imagine Me Leadership Charter School,K-5,0,1,0,0,94th,178,84,0.855,4
+Cornwall On Hudson,Orange,Cornwall Central School District,K-12,0,3,1,1,95th,83,12,0.853,4
+Bronx,Bronx,Bronx Charter School For Excellence,K-8,0,1,0,0,96th,41,55,0.853,4
+Garrison,Putnam,Garrison Union Free School District,K-8,0,1,0,0,97th,158,61,0.852,4
+Youngstown,Niagara,Lewiston-Porter Central School District,"PK, KG-12",0,2,1,1,98th,75,23,0.852,4
+North Merrick,Nassau,Bellmore-Merrick Central High School District,7-12,1,0,3,1,99th,119,20,0.851,4
+Clifton Park,Saratoga,Shenendehowa Central School District,K-12,0,8,1,3,100th,107,7,0.85,4
+Woodmere,Nassau,Hewlett-Woodmere Union Free School District,"PK, KG-12",0,4,1,0,101st,105,4,0.85,4
+Eastchester,Westchester,Tuckahoe Union Free School District,"PK, KG-12",0,1,1,1,102nd,109,7,0.849,4
+Scotia,Schenectady,Burnt Hills-Ballston Lake Central School District,K-12,0,3,1,1,103rd,117,14,0.848,4
+Brooklyn,Kings,Canarsie Ascend Charter School,K-4,0,1,0,0,104th,,(n/a),0.848,4
+Cold Spring,Putnam,Haldane Central School District,K-12,0,1,1,0,105th,123,18,0.847,4
+Levittown,Nassau,Levittown Union Free School District,K-12,0,6,2,2,106th,112,6,0.846,4
+Nanuet,Rockland,Nanuet Union Free School District,K-12,0,2,1,2,107th,74,33,0.846,4
+Hauppauge,Suffolk,Hauppauge Union Free School District,K-12,0,3,1,1,108th,143,35,0.845,4
+Latham,Albany,North Colonie Central School District,K-12,0,6,1,1,109th,103,6,0.845,4
+Bayside,Queens,New York City Geographic District #26,"PK, KG-12",1,21,5,5,110th,93,17,0.845,4
+Smithtown,Suffolk,Smithtown Central School District,K-12,0,8,2,3,111th,87,24,0.843,4
+East Moriches,Suffolk,East Moriches Union Free School District,K-8,0,1,0,1,112th,135,23,0.842,4
+Harrison,Westchester,Harrison Central School District,K-12,1,3,1,1,113th,127,14,0.84,4
+Rockville Centre,Nassau,Rockville Centre Union Free School District,K-12,0,5,1,1,114th,90,24,0.84,4
+Mamaroneck,Westchester,Mamaroneck Union Free School District,"PK, KG-12",0,4,1,1,115th,89,26,0.839,4
+Massapequa,Nassau,Massapequa Union Free School District,K-12,1,6,1,1,116th,100,16,0.839,4
+Shrub Oak,Westchester,Lakeland Central School District,"PK, KG-12",0,5,2,1,117th,98,19,0.839,4
+Cooperstown,Otsego,Cooperstown Central School District,K-12,0,1,1,0,118th,108,10,0.839,4
+Woodside,Queens,Academy Of The City Charter School,K-5,0,1,0,0,119th,268,149,0.838,4
+Amherst,Erie,Amherst Central School District,"PK, KG-12",0,2,1,1,120th,115,5,0.838,4
+Clinton,Oneida,Clinton Central School District,K-12,0,1,1,1,121st,70,51,0.836,4
+Bronx,Bronx,Icahn Charter School 6,K-6,0,1,0,0,122nd,88,34,0.834,4
+Lansing,Tompkins,Lansing Central School District,K-12,0,1,1,1,123rd,94,29,0.833,4
+Victor,Ontario,Victor Central School District,"PK, KG-12",0,3,1,1,124th,95,29,0.832,4
+Warwick,Orange,Warwick Valley Central School District,K-12,0,2,1,1,125th,160,35,0.831,4
+Merrick,Nassau,North Merrick Union Free School District,K-6,0,3,0,0,126th,92,34,0.83,4
+Cazenovia,Madison,Cazenovia Central School District,K-12,0,1,1,1,127th,68,59,0.829,4
+Elma,Erie,Iroquois Central School District,K-12,0,3,1,2,128th,99,29,0.829,4
+Vestal,Broome,Vestal Central School District,K-12,0,5,1,1,129th,139,10,0.828,4
+Cutchogue,Suffolk,Mattituck-Cutchogue Union Free School District,K-12,0,1,1,0,130th,81,49,0.827,4
+Hamburg,Erie,Hamburg Central School District,"PK, KG-12",0,4,1,1,131st,85,46,0.827,4
+East Northport,Suffolk,Commack Union Free School District,K-12,0,6,1,1,132nd,104,28,0.827,4
+Rhinebeck,Dutchess,Rhinebeck Central School District,K-12,0,1,1,1,133rd,146,13,0.826,4
+Shoreham,Suffolk,Shoreham-Wading River Central School District,K-12,0,2,1,1,134th,141,7,0.824,4
+Bemus Point,Chautauqua,Bemus Point Central School District,"PK, KG-12",1,1,0,0,135th,166,31,0.822,4
+Poughkeepsie,Dutchess,Spackenkill Union Free School District,K-12,0,2,1,1,136th,126,10,0.819,4
+Seaford,Nassau,Seaford Union Free School District,K-12,0,2,1,1,137th,131,6,0.818,4
+N Massapequa,Nassau,Plainedge Union Free School District,K-12,0,3,1,1,138th,175,37,0.818,4
+Bronx,Bronx,Bronx Charter School For The Arts,K-6,0,1,0,0,139th,154,15,0.816,4
+Lake George,Warren,Lake George Central School District,K-12,0,1,1,0,140th,165,25,0.815,4
+Hamilton,Madison,Hamilton Central School District,"PK, KG-12",1,1,0,0,141st,106,35,0.812,4
+New Hartford,Oneida,New Hartford Central School District,K-12,1,3,1,0,142nd,147,5,0.809,4
+Brooklyn,Kings,Achievement First Apollo Charter School,K-7,0,1,0,0,143rd,315,172,0.808,4
+Akron,Erie,Akron Central School District,K-12,0,1,1,1,144th,132,12,0.807,4
+Bronx,Bronx,Bronx Charter School For Better Learning,"PK, KG-5",0,1,0,0,145th,313,168,0.805,4
+Port Washington,Nassau,Port Washington Union Free School District,"PK, KG-12",0,5,1,1,146th,134,12,0.804,4
+Brooklyn,Kings,Beginning With Children Charter School II,K-5,0,1,0,0,147th,116,31,0.804,4
+Brooklyn,Kings,Ocean Hill Collegiate Charter School,5-8,0,0,0,1,148th,163,15,0.801,4
+Astoria,Queens,Our World Neighborhood Charter School,K-8,0,1,0,0,149th,239,90,0.801,4
+Lynbrook,Nassau,Lynbrook Union Free School District,K-12,0,4,1,2,150th,137,13,0.8,4
+Brooklyn,Kings,Achievement First Aspire Charter School,K-4,0,1,0,0,151st,,(n/a),0.8,4
+Oyster Bay,Nassau,Oyster Bay-East Norwich Central School District,"PK, KG-12",0,2,1,0,152nd,157,5,0.8,4
+Thornwood,Westchester,Mount Pleasant Central School District,K-12,0,2,1,1,153rd,172,19,0.798,4
+Levittown,Nassau,Island Trees Union Free School District,K-12,0,2,1,1,154th,202,48,0.797,4
+Westhampton Beach,Suffolk,Westhampton Beach Union Free School District,K-12,0,1,1,1,155th,185,30,0.797,4
+Babylon,Suffolk,Babylon Union Free School District,K-12,0,2,1,0,156th,118,38,0.797,4
+Northport,Suffolk,Northport-East Northport Union Free School District,K-12,0,6,1,2,157th,142,15,0.793,4
+Kings Park,Suffolk,Kings Park Central School District,K-12,0,3,1,1,158th,78,80,0.791,4
+New York,New York,Girls Preparatory Charter School Of New York,K-8,0,1,0,0,159th,182,23,0.79,4
+Caledonia,Livingston,Caledonia-Mumford Central School District,"PK, KG-12",0,1,1,1,160th,125,35,0.789,4
+West Seneca,Erie,Orchard Park Central School District,K-12,0,4,1,1,161st,129,32,0.786,4
+Averill Park,Rensselaer,Averill Park Central School District,K-12,0,3,1,1,162nd,128,34,0.784,4
+Bronx,Bronx,Academic Leadership Charter School,"PK, KG-8",0,1,0,0,163rd,136,27,0.782,4
+Fairport,Monroe,Fairport Central School District,K-12,1,4,1,2,164th,122,42,0.782,4
+Bronx,Bronx,Children's Aid College Preparatory Charter School,K-5,0,1,0,0,165th,113,52,0.782,4
+Ellicottville,Cattaraugus,Ellicottville Central School District,"PK, KG-12",1,1,0,0,166th,218,52,0.781,4
+Franklin Square,Nassau,Franklin Square Union Free School District,"PK, KG-6",0,3,0,0,167th,159,8,0.781,4
+Valley Stream,Nassau,Valley Stream 30 Union Free School District,K-6,0,3,0,0,168th,140,28,0.779,4
+Hillburn,Rockland,Ramapo Central School District (Suffern),K-12,0,5,1,1,169th,170,1,0.779,4
+Eden,Erie,Eden Central School District,"PK, KG-12",0,2,1,0,170th,168,2,0.777,4
+Somers,Westchester,Somers Central School District,K-12,0,2,1,1,171st,120,51,0.777,4
+Brooklyn,Kings,Excellence Boys Charter School Of Bedford Stuyvesant,K-8,0,1,0,0,172nd,213,41,0.776,4
+Delhi,Delaware,Delaware Academy Central School District At Delhi,K-12,1,1,0,0,173rd,233,60,0.774,4
+Guilderland Center,Albany,Guilderland Central School District,K-12,0,5,1,1,174th,111,63,0.772,4
+Whitesboro,Oneida,Whitesboro Central School District,K-12,0,4,1,2,175th,200,25,0.771,4
+Carle Place,Nassau,Carle Place Union Free School District,K-12,0,2,1,0,176th,152,24,0.77,4
+Panama,Chautauqua,Panama Central School District,"PK, KG-12",0,1,1,0,177th,186,9,0.77,4
+Red Hook,Dutchess,Red Hook Central School District,"PK, KG-12",0,2,1,1,178th,121,57,0.77,4
+New City,Rockland,Clarkstown Central School District,K-12,1,9,3,3,179th,133,46,0.769,4
+Spencerport,Monroe,Spencerport Central School District,K-12,0,4,1,1,180th,91,89,0.769,4
+Brooklyn,Kings,Bedford Stuyvesant Collegiate Charter School,5-8,0,0,0,1,181st,240,59,0.766,4
+Brooklyn,Kings,Leadership Preparatory Brownsville Charter School,K-8,0,1,0,0,182nd,176,6,0.765,4
+Canandaigua,Ontario,Canandaigua City School District,"PK, KG-12",0,1,1,1,183rd,148,35,0.761,4
+Union Springs,Cayuga,Union Springs Central School District,"PK, KG-12",0,2,1,1,184th,167,17,0.759,4
+Valley Stream,Nassau,Valley Stream Central High School District,7-12,1,0,3,0,185th,212,27,0.758,4
+Sayville,Suffolk,Sayville Union Free School District,K-12,0,3,1,1,186th,144,42,0.758,4
+Beaver Falls,Lewis,Beaver River Central School District,"PK, KG-12",0,1,1,1,187th,211,24,0.754,4
+Montauk,Suffolk,Montauk Union Free School District,"PK, KG-8",0,1,0,0,188th,249,61,0.753,4
+Jeffersonville,Sullivan,Sullivan West Central School District,"PK, KG-12",0,1,1,0,189th,174,15,0.753,4
+Geneseo,Livingston,Geneseo Central School District,K-12,1,1,0,0,190th,153,37,0.752,4
+Valley Stream,Nassau,Valley Stream 24 Union Free School District,K-6,0,3,0,0,191st,138,53,0.751,4
+Buffalo,Erie,Elmwood Village Charter School,K-8,0,1,0,0,192nd,243,51,0.75,4
+East Rochester,Monroe,East Rochester Union Free School District,"PK, KG-12",1,1,0,0,193rd,221,28,0.749,4
+Grand Island,Erie,Grand Island Central School District,"PK, KG-12",0,3,1,1,194th,177,17,0.749,4
+Floral Park,Nassau,Sewanhaka Central High School District,7-12,0,0,5,0,195th,164,31,0.749,4
+Queensbury,Warren,Queensbury Union Free School District,K-12,0,2,1,1,196th,214,18,0.748,4
+Almond,Allegany,Alfred-Almond Central School District,"PK, KG-12",0,1,1,0,197th,238,41,0.748,4
+Bronx,Bronx,Icahn Charter School 1,K-8,0,1,0,0,198th,96,102,0.748,4
+Albany,Albany,KIPP Technical Valley Charter School,5-8,0,0,0,1,199th,156,43,0.748,4
+Pawling,Dutchess,Pawling Central School District,K-12,0,1,1,1,200th,247,47,0.747,4
+Endwell,Broome,Maine-Endwell Central School District,"PK, KG-12",0,2,1,1,201st,237,36,0.746,4
+Sag Harbor,Suffolk,Sag Harbor Union Free School District,"PK, KG-12",1,1,0,0,202nd,173,29,0.745,4
+Oceanside,Nassau,Oceanside Union Free School District,K-12,0,7,2,1,203rd,180,23,0.745,4
+Bayport,Suffolk,Bayport-Blue Point Union Free School District,K-12,0,3,1,1,204th,162,42,0.745,4
+Henrietta,Monroe,Rush-Henrietta Central School District,"PK, KG-12",1,5,1,2,205th,253,48,0.744,4
+Canton,St. Lawrence,Canton Central School District,"PK, KG-12",1,1,1,1,206th,197,9,0.742,4
+Castleton,Rensselaer,Schodack Central School District,K-12,0,1,1,1,207th,169,38,0.742,4
+Lowville,Lewis,Lowville Academy & Central School District,"PK, KG-12",0,1,1,1,208th,265,57,0.742,4
+Bedford,Westchester,Bedford Central School District,K-12,0,5,1,1,209th,171,38,0.742,4
+Randolph,Cattaraugus,Randolph Central School District,"PK, KG-12",0,1,1,0,210th,155,55,0.742,4
+Brooklyn,Kings,Community Roots Charter School,K-8,0,1,0,0,211th,292,81,0.741,4
+Bronx,Bronx,Grand Concourse Academy Charter School,K-7,0,1,0,0,212th,,(n/a),0.74,4
+Webster,Monroe,Webster Central School District,"PK, KG-12",0,7,2,2,213th,161,52,0.738,4
+West Islip,Suffolk,West Islip Union Free School District,K-12,0,4,1,2,214th,227,13,0.737,4
+Windsor,Broome,Windsor Central School District,"PK, KG-12",0,3,1,0,215th,196,19,0.736,4
+Barker,Niagara,Barker Central School District,"PK, KG-12",1,1,0,0,216th,201,15,0.734,4
+Valhalla,Westchester,Valhalla Union Free School District,K-12,0,2,1,1,217th,207,10,0.734,4
+Hamburg,Erie,Frontier Central School District,"PK, KG-12",0,4,1,1,218th,183,35,0.734,4
+Livonia,Livingston,Livonia Central School District,"PK, KG-12",0,1,1,1,219th,216,3,0.731,4
+Chazy,Clinton,Chazy Union Free School District,K-12,0,1,1,0,220th,297,77,0.726,4
+Tully,Onondaga,Tully Central School District,K-12,0,1,1,0,221st,261,40,0.726,4
+Kendall,Orleans,Kendall Central School District,"PK, KG-12",0,1,1,0,222nd,266,44,0.725,4
+Galway,Saratoga,Galway Central School District,K-12,0,1,1,0,223rd,189,34,0.723,4
+Central Valley,Orange,Monroe-Woodbury Central School District,K-12,0,5,1,1,224th,187,37,0.723,4
+Nyack,Rockland,Nyack Union Free School District,K-12,0,3,1,1,225th,269,44,0.723,4
+Tuxedo Park,Orange,Tuxedo Union Free School District,K-12,0,1,1,0,226th,304,78,0.722,4
+Ballston Spa,Saratoga,Ballston Spa Central School District,K-12,0,4,1,1,227th,206,21,0.722,4
+Fabius,Onondaga,Fabius-Pompey Central School District,K-12,1,1,0,0,228th,223,5,0.721,4
+Bloomfield,Ontario,East Bloomfield Central School District,"PK, KG-12",0,1,1,1,229th,390,161,0.721,4
+Honeoye,Ontario,Honeoye Central School District,K-12,1,1,0,0,230th,291,61,0.72,4
+New York,New York,Manhattan Charter School,K-5,0,1,0,0,231st,276,45,0.72,4
+Stillwater,Saratoga,Stillwater Central School District,"PK, KG-12",1,1,0,0,232nd,219,13,0.72,4
+Ontario Center,Wayne,Wayne Central School District,"PK, KG-12",1,3,1,0,233rd,241,8,0.719,4
+Potsdam,St. Lawrence,Potsdam Central School District,"PK, KG-12",1,1,0,1,234th,199,35,0.718,4
+Portville,Cattaraugus,Portville Central School District,"PK, KG-12",0,1,1,0,235th,289,54,0.717,4
+Long Island City,Queens,Voice Charter School Of New York,K-8,0,1,0,0,236th,318,82,0.717,4
+Yorkshire,Cattaraugus,Yorkshire-Pioneer Central School District,"PK, KG-12",0,2,1,1,237th,226,11,0.716,4
+Mahopac,Putnam,Mahopac Central School District,K-12,0,3,1,2,238th,234,4,0.715,4
+Schuylerville,Saratoga,Schuylerville Central School District,K-12,0,1,1,1,239th,190,49,0.715,4
+Le Roy,Genesee,Le Roy Central School District,"PK, KG-12",0,1,1,0,240th,262,22,0.714,4
+Blauvelt,Rockland,South Orangetown Central School District,K-12,0,2,1,1,241st,149,92,0.714,4
+Hicksville,Nassau,Hicksville Union Free School District,"PK, KG-12",0,7,1,1,242nd,193,49,0.714,3
+Boiceville,Ulster,Onteora Central School District,K-12,0,3,1,1,243rd,322,79,0.712,3
+Millbrook,Dutchess,Millbrook Central School District,K-12,0,2,1,1,244th,255,11,0.71,3
+New York,New York,Dream Charter School,"PK, KG-8",0,1,0,0,245th,337,92,0.709,3
+Greene,Chenango,Greene Central School District,"PK, KG-12",0,2,1,1,246th,194,52,0.708,3
+Perry,Wyoming,Perry Central School District,"PK, KG-12",0,1,1,0,247th,290,43,0.707,3
+Parishville,St. Lawrence,Parishville-Hopkinton Central School District,"PK, KG-12",0,1,1,0,248th,195,53,0.707,3
+Horseheads,Chemung,Horseheads Central School District,"PK, KG-12",0,4,1,2,249th,203,46,0.706,3
+Montrose,Westchester,Hendrick Hudson Central School District,K-12,0,3,1,1,250th,303,53,0.703,3
+Putnam Valley,Putnam,Putnam Valley Central School District,K-12,0,1,1,1,251st,295,44,0.701,3
+Bronx,Bronx,Brilla College Preparatory Charter School,K-4,0,1,0,0,252nd,,(n/a),0.701,3
+Fredonia,Chautauqua,Fredonia Central School District,"PK, KG-12",0,1,1,1,253rd,310,57,0.701,3
+Walworth,Wayne,Gananda Central School District,K-12,0,1,1,1,254th,254,,0.701,3
+Brooklyn,Kings,New York City Geographic District #20,"PK, KG-12",1,31,4,7,255th,250,5,0.7,3
+Jamestown,Chautauqua,Southwestern Central School District At Jamestown,"PK, KG-12",1,0,1,1,256th,225,31,0.699,3
+Islip Terrace,Suffolk,East Islip Union Free School District,K-12,0,4,1,1,257th,236,21,0.699,3
+Greenwich,Washington,Greenwich Central School District,K-12,0,1,1,0,258th,151,107,0.699,3
+Remsenburg,Suffolk,Remsenburg-Speonk Union Free School District,K-6,0,1,0,0,259th,205,54,0.698,3
+Malverne,Nassau,Malverne Union Free School District,K-12,0,2,1,1,260th,228,32,0.696,3
+Lindenhurst,Suffolk,Lindenhurst Union Free School District,K-12,1,5,1,1,261st,248,13,0.693,3
+Dexter,Jefferson,General Brown Central School District,"PK, KG-12",0,2,1,0,262nd,286,24,0.689,3
+Allegany,Cattaraugus,Allegany-Limestone Central School District,"PK, KG-12",1,1,0,0,263rd,308,45,0.688,3
+Hempstead,Nassau,Evergreen Charter School,K-6,0,1,0,0,264th,246,18,0.684,3
+Syracuse,Onondaga,Westhill Central School District,K-12,0,2,1,1,265th,124,141,0.684,3
+Bronx,Bronx,Harriet Tubman Charter School,K-8,0,1,0,0,266th,235,31,0.683,3
+Frewsburg,Chautauqua,Frewsburg Central School District,"PK, KG-12",0,1,1,0,267th,273,6,0.683,3
+Brooklyn,Kings,Pave Academy Charter School,"PK, KG-8",0,1,0,0,268th,407,139,0.682,3
+Hilton,Monroe,Hilton Central School District,"PK, KG-12",0,3,1,1,269th,220,49,0.681,3
+Binghamton,Broome,Chenango Valley Central School District,"PK, KG-12",0,2,1,1,270th,294,24,0.681,3
+Oriskany,Oneida,Oriskany Central School District,"PK, KG-12",0,1,1,0,271st,280,9,0.679,3
+Flushing,Queens,New York City Geographic District #25,"PK, KG-12",3,26,9,7,272nd,258,14,0.679,3
+Bergen,Genesee,Byron-Bergen Central School District,"PK, KG-12",0,1,1,0,273rd,279,6,0.679,3
+Weedsport,Cayuga,Weedsport Central School District,K-12,0,1,1,0,274th,242,32,0.679,3
+Fonda,Montgomery,Fonda-Fultonville Central School District,"PK, KG-12",0,1,1,1,275th,215,60,0.675,3
+East Hampton,Suffolk,Springs Union Free School District,"PK, KG-12",0,1,0,0,276th,395,119,0.674,3
+Holland Patent,Oneida,Holland Patent Central School District,"PK, KG-12",0,2,1,1,277th,372,95,0.67,3
+Cambridge,Washington,Cambridge Central School District,"PK, KG-12",0,1,1,0,278th,232,46,0.67,3
+Baldwin,Nassau,Baldwin Union Free School District,K-12,0,5,1,1,279th,263,16,0.67,3
+East Quogue,Suffolk,East Quogue Union Free School District,K-6,0,1,0,0,280th,256,24,0.669,3
+Mineola,Nassau,Mineola Union Free School District,"PK, KG-12",0,3,1,1,281st,282,1,0.669,3
+Trumansburg,Tompkins,Trumansburg Central School District,"PK, KG-12",0,1,1,1,282nd,204,78,0.669,3
+Forestville,Chautauqua,Forestville Central School District,"PK, KG-12",0,1,1,0,283rd,217,66,0.668,3
+Painted Post,Steuben,Corning City School District,"PK, KG-12",0,6,2,1,284th,231,53,0.668,3
+Sherman,Chautauqua,Sherman Central School District,"PK, KG-12",0,1,1,0,285th,191,94,0.664,3
+Westmoreland,Oneida,Westmoreland Central School District,K-12,0,1,1,1,286th,309,23,0.664,3
+Broadalbin,Fulton,Broadalbin-Perth Central School District,"PK, KG-12",0,2,1,1,287th,341,54,0.661,3
+Island Park,Nassau,Island Park Union Free School District,"PK, KG-8",0,1,0,1,288th,382,94,0.66,3
+Westfield,Chautauqua,Westfield Central School District,K-12,0,1,1,1,289th,275,14,0.659,3
+Elmont,Nassau,Elmont Union Free School District,"PK, KG-6",0,6,0,0,290th,264,26,0.658,3
+Rochester,Monroe,Genesee Community Charter School,K-6,0,1,0,0,291st,145,146,0.658,3
+Binghamton,Broome,Chenango Forks Central School District,"PK, KG-12",0,1,1,1,292nd,357,65,0.657,3
+Churchville,Monroe,Churchville-Chili Central School District,K-12,0,3,1,1,293rd,252,41,0.657,3
+Slate Hill,Orange,Minisink Valley Central School District,K-12,0,3,1,1,294th,336,42,0.656,3
+Cuba,Allegany,Cuba-Rushford Central School District,"PK, KG-12",0,1,1,1,295th,287,8,0.654,3
+Long Beach,Nassau,Long Beach City School District,"PK, KG-12",0,4,1,1,296th,288,8,0.653,3
+Bellmore,Nassau,North Bellmore Union Free School District,K-6,0,5,0,0,297th,208,89,0.651,3
+Patterson,Putnam,Carmel Central School District,K-12,0,3,2,1,298th,230,68,0.649,3
+Scotia,Schenectady,Scotia-Glenville Central School District,K-12,0,4,1,1,299th,260,39,0.649,3
+Miller Place,Suffolk,Miller Place Union Free School District,K-12,0,2,1,1,300th,270,30,0.649,3
+Goshen,Orange,Goshen Central School District,K-12,0,2,1,1,301st,348,47,0.649,3
+Camillus,Onondaga,West Genesee Central School District,K-12,0,4,1,2,302nd,330,28,0.648,3
+Alexander,Genesee,Alexander Central School District,"PK, KG-12",1,1,0,0,303rd,251,52,0.648,3
+Aurora,Cayuga,Southern Cayuga Central School District,"PK, KG-12",0,1,1,0,304th,281,23,0.647,3
+Sauquoit,Oneida,Sauquoit Valley Central School District,K-12,0,1,1,1,305th,349,44,0.647,3
+New York,New York,Sisulu-Walker Charter School Of Harlem,K-5,0,1,0,0,306th,464,158,0.645,3
+New York,New York,Amber Charter School,K-5,0,1,0,0,307th,383,76,0.643,3
+East Hampton,Suffolk,East Hampton Union Free School District,K-12,0,1,1,1,308th,293,15,0.642,3
+Mayville,Chautauqua,Chautauqua Lake Central School District,"PK, KG-12",0,1,2,0,309th,314,5,0.641,3
+Deer Park,Suffolk,Deer Park Union Free School District,"PK, KG-12",0,3,1,1,310th,316,6,0.641,3
+Brooklyn,Kings,Williamsburg Collegiate Charter School,5-8,0,0,0,1,311th,259,52,0.641,3
+Fort Ann,Washington,Fort Ann Central School District,"PK, KG-12",1,1,0,0,312th,,(n/a),0.64,3
+Bronx,Bronx,Icahn Charter School 7,K-5,0,1,0,0,313th,150,163,0.64,3
+Troy,Rensselaer,True North Troy Preparatory Charter School,K-8,0,1,0,0,314th,404,90,0.639,3
+New York,New York,New York City Geographic District # 2,"PK, KG-12",8,37,62,10,315th,346,31,0.639,3
+Oakfield,Genesee,Oakfield-Alabama Central School District,"PK, KG-12",0,1,1,0,316th,368,52,0.639,3
+Florida,Orange,Florida Union Free School District,"PK, KG-12",1,1,0,0,317th,391,74,0.638,3
+Valatie,Columbia,Kinderhook Central School District,"PK, KG-12",0,2,1,1,318th,351,33,0.637,3
+Chittenango,Madison,Chittenango Central School District,K-12,0,2,1,1,319th,188,131,0.636,3
+Champlain,Clinton,Northeastern Clinton Central School District,"PK, KG-12",1,2,1,0,320th,299,21,0.634,3
+Canisteo,Steuben,Canisteo-Greenwood Central School District,"PK, KG-12",0,1,1,0,321st,339,18,0.632,3
+Bronx,Bronx,South Bronx Charter School,K-5,0,1,0,0,322nd,244,78,0.63,3
+Valley Stream,Nassau,Valley Stream 13 Union Free School District,K-6,0,4,0,0,323rd,222,101,0.63,3
+Ithaca,Tompkins,Ithaca City School District,"PK, KG-12",1,8,1,2,324th,278,46,0.629,3
+Springville,Erie,Springville-Griffith Institute Central School District,K-12,0,2,1,1,325th,340,15,0.627,3
+Schenectady,Schenectady,Schalmont Central School District,K-12,0,1,1,1,326th,257,69,0.627,3
+Owego,Tioga,Owego-Apalachin Central School District,"PK, KG-12",0,2,1,1,327th,327,,0.626,3
+Bohemia,Suffolk,Connetquot Central School District,"PK, KG-12",0,7,1,2,328th,209,119,0.626,3
+Wayland,Steuben,Wayland-Cohocton Central School District,"PK, KG-12",0,2,1,1,329th,271,58,0.625,3
+Clayton,Jefferson,Thousand Islands Central School District,K-12,0,2,1,1,330th,311,19,0.622,3
+Brooklyn,Kings,Leadership Preparatory Canarsie Charter School,K-8,0,1,0,0,331st,,(n/a),0.622,3
+Niagara Falls,Niagara,Niagara-Wheatfield Central School District,"PK, KG-12",0,4,1,1,332nd,320,12,0.621,3
+South Glens Falls,Saratoga,South Glens Falls Central School District,"PK, KG-12",0,4,1,1,333rd,342,9,0.619,3
+Cheektowaga,Erie,Cheektowaga-Maryvale Union Free School District,"PK, KG-12",0,2,1,1,334th,317,17,0.617,3
+New York,New York,The Equity Project Charter School,5-8,0,0,0,1,335th,405,70,0.616,3
+Elba,Genesee,Elba Central School District,"PK, KG-12",0,1,1,0,336th,354,18,0.616,3
+Manorville,Suffolk,Eastport-South Manor Central School District,"PK, KG-12",0,4,1,0,337th,355,18,0.615,3
+Wilson,Niagara,Wilson Central School District,"PK, KG-12",1,1,0,0,338th,305,33,0.613,3
+Bronx,Bronx,Mott Haven Academy Charter School,"PK, KG-5",0,1,0,0,339th,181,158,0.613,3
+Baldwinsville,Onondaga,Baldwinsville Central School District,K-12,1,5,1,1,340th,321,19,0.613,3
+Bronx,Bronx,Girls Preparatory Charter School Of The Bronx,"PK, KG-8",0,1,0,0,341st,489,148,0.613,3
+Montgomery,Orange,Valley Central School District (Montgomery),K-12,0,4,1,1,342nd,353,11,0.613,3
+Albany,Albany,South Colonie Central School District,"PK, KG-12",0,5,1,2,343rd,300,43,0.612,3
+Jamaica,Queens,Rochdale Early Advantage Charter School,"PK, KG-5",0,1,0,0,344th,456,112,0.612,3
+Cheektowaga,Erie,Cleveland Hill Union Free School District,"PK, KG-12",0,1,1,1,345th,344,1,0.612,3
+Avon,Livingston,Avon Central School District,K-12,0,1,1,1,346th,319,27,0.612,3
+Brockport,Monroe,Brockport Central School District,"PK, KG-12",0,3,1,1,347th,285,62,0.611,3
+New York Mills,Oneida,New York Mills Union Free School District,K-12,0,1,1,0,348th,352,4,0.61,3
+Remsen,Oneida,Remsen Central School District,"PK, KG-12",0,1,1,0,349th,369,20,0.609,3
+Corfu,Genesee,Pembroke Central School District,K-12,0,2,1,0,350th,245,105,0.608,3
+Chester,Orange,Chester Union Free School District,K-12,1,1,0,0,351st,446,95,0.608,3
+Lake Ronkonkoma,Suffolk,Sachem Central School District,K-12,0,12,2,4,352nd,328,24,0.606,3
+Brooklyn,Kings,Brooklyn East Collegiate Charter School,5-8,0,0,0,1,353rd,267,86,0.606,3
+Cato,Cayuga,Cato-Meridian Central School District,"PK, KG-12",0,1,1,1,354th,334,20,0.605,3
+Saint Albans,Queens,Riverton Street Charter School,K-8,0,1,0,0,355th,409,54,0.604,3
+Rocky Point,Suffolk,Rocky Point Union Free School District,K-12,0,2,1,1,356th,350,6,0.603,3
+Attica,Wyoming,Attica Central School District,K-12,0,1,1,1,357th,384,27,0.602,3
+Pavilion,Genesee,Pavilion Central School District,"PK, KG-12",1,1,0,0,358th,361,3,0.601,3
+Ravena,Albany,Ravena-Coeymans-Selkirk Central School District,"PK, KG-12",0,2,1,1,359th,371,12,0.6,3
+New Paltz,Ulster,New Paltz Central School District,K-12,0,2,1,1,360th,333,27,0.6,3
+Bronx,Bronx,Family Life Academy Charter School I,K-8,0,1,0,0,361st,356,5,0.599,3
+Newport,Herkimer,West Canada Valley Central School District,K-12,0,1,1,0,362nd,389,27,0.597,3
+Bronx,Bronx,Bronx Academy Of Promise Charter School,K-8,0,1,0,0,363rd,374,11,0.597,3
+Gainesville,Wyoming,Letchworth Central School District,"PK, KG-12",0,2,1,0,364th,312,52,0.596,3
+Sleepy Hollow,Westchester,Union Free School District Of The Tarrytowns,K-12,0,3,1,1,365th,335,30,0.593,3
+Oneonta,Otsego,Oneonta City School District,K-12,0,3,1,1,366th,331,35,0.592,3
+Richfield Springs,Otsego,Richfield Springs Central School District,"PK, KG-12",0,1,1,0,367th,586,219,0.592,3
+Tannersville,Greene,Hunter-Tannersville Central School District,"PK, KG-12",0,1,1,0,368th,402,34,0.591,3
+Salem,Washington,Salem Central School District,"PK, KG-12",1,1,1,0,369th,323,46,0.591,3
+Chatham,Columbia,Chatham Central School District,"PK, KG-12",0,1,1,1,370th,298,72,0.589,3
+Rushville,Yates,Gorham-Middlesex Central School District (Marcus Whitman),"PK, KG-12",0,2,1,1,371st,301,70,0.588,3
+Deposit,Broome,Deposit Central School District,"PK, KG-12",1,1,0,0,372nd,302,70,0.588,3
+Depew,Erie,Depew Union Free School District,K-12,0,1,1,1,373rd,284,89,0.587,3
+Milton,Ulster,Marlboro Central School District,K-12,0,1,1,1,374th,468,94,0.587,3
+Lagrangeville,Dutchess,Arlington Central School District,K-12,0,8,1,2,375th,422,47,0.586,3
+New York,New York,East Harlem Scholars Academy Charter School,"PK, KG-6",0,1,0,0,376th,324,52,0.583,3
+Livingston Manor,Sullivan,Livingston Manor Central School District,"PK, KG-12",0,1,1,0,377th,460,83,0.578,3
+Beacon,Dutchess,Beacon City School District,"PK, KG-12",0,4,1,1,378th,393,15,0.577,3
+Waterville,Oneida,Waterville Central School District,"PK, KG-12",0,1,1,0,379th,397,18,0.576,3
+Alexandria Bay,Jefferson,Alexandria Central School District,"PK, KG-12",0,1,1,0,380th,532,152,0.576,3
+Penn Yan,Yates,Penn Yan Central School District,"PK, KG-12",0,1,1,1,381st,451,70,0.576,3
+Mayfield,Fulton,Mayfield Central School District,"PK, KG-12",0,1,1,0,382nd,272,110,0.575,3
+Campbell,Steuben,Campbell-Savona Central School District,"PK, KG-12",0,1,1,0,383rd,360,23,0.574,3
+Burt,Niagara,Newfane Central School District,"PK, KG-12",0,2,1,1,384th,283,101,0.574,3
+Long Island City,Queens,New York City Geographic District #30,"PK, KG-12",1,29,9,9,385th,416,31,0.574,3
+Rochester,Monroe,True North Rochester Prep-West Camp,K-8,0,1,0,0,386th,549,163,0.573,3
+Oxford,Chenango,Oxford Academy And Central School District,"PK, KG-12",0,1,1,1,387th,380,7,0.571,3
+Conklin,Broome,Susquehanna Valley Central School District,K-12,0,2,1,1,388th,429,41,0.571,3
+Red Creek,Wayne,Red Creek Central School District,"PK, KG-12",0,1,1,1,389th,325,64,0.57,3
+Nedrow,Onondaga,Onondaga Central School District,"PK, KG-12",0,2,1,0,390th,347,43,0.569,3
+Long Island City,Queens,Growing Up Green Charter School,K-8,0,1,0,0,391st,198,193,0.568,3
+Naples,Ontario,Naples Central School District,"PK, KG-12",0,1,1,0,392nd,224,168,0.568,3
+Troy,Rensselaer,Brunswick Central School District (Brittonkill),"PK, KG-12",1,1,0,0,393rd,364,29,0.567,3
+Waterford,Saratoga,Waterford-Halfmoon Union Free School District,K-12,0,1,1,0,394th,365,29,0.567,3
+Bainbridge,Chenango,Bainbridge-Guilford Central School District,"PK, KG-12",0,2,1,0,395th,367,28,0.566,3
+Brewster,Putnam,Brewster Central School District,K-12,0,2,1,1,396th,421,25,0.565,3
+Staten Island,Richmond,New York City Geographic District #31,"PK, KG-12",1,49,10,12,397th,414,17,0.565,3
+Brooklyn,Kings,Brooklyn Dreams Charter School,K-8,0,1,0,0,398th,539,141,0.564,3
+Troy,Rensselaer,Wynantskill Union Free School District,K-8,0,1,0,0,399th,306,93,0.562,3
+Hopewell Junction,Dutchess,Wappingers Central School District,K-12,0,10,3,2,400th,366,34,0.562,3
+Port Henry,Essex,Moriah Central School District,"PK, KG-12",0,1,1,0,401st,470,69,0.561,3
+Cattaraugus,Cattaraugus,Cattaraugus-Little Valley Central School District,"PK, KG-12",0,1,1,1,402nd,490,88,0.56,2
+Gilbertsville,Otsego,Gilbertsville-Mount Upton Central School District,"PK, KG-12",0,1,1,0,403rd,567,164,0.559,2
+Dannemora,Clinton,Saranac Central School District,K-12,0,2,1,1,404th,343,61,0.559,2
+West Hempstead,Nassau,West Hempstead Union Free School District,K-12,0,3,1,1,405th,514,109,0.558,2
+Whitney Point,Broome,Whitney Point Central School District,"PK, KG-12",0,2,1,0,406th,444,38,0.558,2
+Retsof,Livingston,York Central School District,"PK, KG-12",0,1,1,0,407th,400,7,0.557,2
+Bronx,Bronx,American Dream Charter School,6-8,0,0,0,1,408th,,(n/a),0.557,2
+Madrid,St. Lawrence,Madrid-Waddington Central School District,"PK, KG-12",1,1,0,0,409th,396,13,0.556,2
+Warsaw,Wyoming,Warsaw Central School District,K-12,2,1,0,0,410th,432,22,0.556,2
+Verona,Oneida,Sherrill City School District,"PK, KG-12",0,3,1,1,411th,326,85,0.555,2
+Argyle,Washington,Argyle Central School District,"PK, KG-12",0,1,1,0,412th,379,33,0.551,2
+Highland,Ulster,Highland Central School District,K-12,0,1,1,1,413th,538,125,0.551,2
+Brooklyn,Kings,New York City Geographic District #22,"PK, KG-12",0,27,6,6,414th,427,13,0.551,2
+Lake Luzerne,Warren,Hadley-Luzerne Central School District,"PK, KG-12",0,1,1,0,415th,362,53,0.55,2
+Marion,Wayne,Marion Central School District,"PK, KG-12",0,1,1,0,416th,381,35,0.55,2
+Jordan,Onondaga,Jordan-Elbridge Central School District,"PK, KG-12",0,1,1,1,417th,474,57,0.549,2
+Tioga Center,Tioga,Tioga Central School District,"PK, KG-12",0,1,1,1,418th,363,55,0.548,2
+Corona,Queens,New York City Geographic District #24,"PK, KG-12",1,33,16,7,419th,412,7,0.546,2
+Glens Falls,Warren,Glens Falls City School District,"PK, KG-12",1,3,1,0,420th,408,12,0.545,2
+Brooklyn,Kings,New York City Geographic District #15,"PK, KG-12",3,25,11,8,421st,459,38,0.543,2
+Holland,Erie,Holland Central School District,"PK, KG-12",0,1,1,0,422nd,377,45,0.542,2
+Germantown,Columbia,Germantown Central School District,"PK, KG-12",0,1,1,0,423rd,392,31,0.542,2
+New Rochelle,Westchester,New Rochelle City School District,"PK, KG-12",0,7,1,2,424th,443,19,0.541,2
+Delanson,Schenectady,Duanesburg Central School District,K-12,0,1,1,0,425th,307,118,0.54,2
+Spencer,Tioga,Spencer-Van Etten Central School District,"PK, KG-12",0,1,1,1,426th,420,6,0.539,2
+Poland,Herkimer,Poland Central School District,"PK, KG-12",1,1,0,0,427th,455,28,0.539,2
+Dolgeville,Herkimer,Dolgeville Central School District,"PK, KG-12",0,1,1,1,428th,598,170,0.539,2
+Hartford,Washington,Hartford Central School District,"PK, KG-12",1,1,0,0,429th,,(n/a),0.538,2
+Uniondale,Nassau,Uniondale Union Free School District,K-12,0,5,1,2,430th,507,77,0.537,2
+Bronx,Bronx,International Leadership Charter School,9-12,0,0,1,0,431st,277,154,0.536,2
+Saugerties,Ulster,Saugerties Central School District,K-12,0,4,1,1,432nd,541,109,0.536,2
+Farmingdale,Nassau,Farmingdale Union Free School District,K-12,0,4,1,1,433rd,410,23,0.535,2
+Williamson,Wayne,Williamson Central School District,"PK, KG-12",0,1,1,1,434th,453,19,0.534,2
+Orient,Suffolk,Oysterponds Union Free School District,"PK, KG-6",0,1,0,0,435th,518,83,0.533,2
+New York,New York,Harlem Hebrew Language Academy Charter School,K-4,0,1,0,0,436th,,(n/a),0.531,2
+Amherst,Erie,Sweet Home Central School District,K-12,0,4,1,1,437th,388,49,0.531,2
+De Ruyter,Madison,Deruyter Central School District,"PK, KG-12",1,1,0,0,438th,509,71,0.529,2
+New York,New York,New York French-American Charter School,K-5,0,1,0,0,439th,411,28,0.529,2
+Adams Center,Jefferson,South Jefferson Central School District,"PK, KG-12",0,2,1,1,440th,437,3,0.529,2
+Pine Bush,Orange,Pine Bush Central School District,"PK, KG-12",0,4,1,2,441st,450,9,0.528,2
+Hammondsport,Steuben,Hammondsport Central School District,"PK, KG-12",0,1,1,0,442nd,426,16,0.528,2
+Brooklyn,Kings,Bushwick Ascend Charter School,K-7,0,1,0,0,443rd,530,87,0.528,2
+Granville,Washington,Granville Central School District,"PK, KG-12",0,2,1,0,444th,438,6,0.528,2
+West Seneca,Erie,West Seneca Central School District,"PK, KG-12",0,5,2,2,445th,332,113,0.527,2
+Nunda,Livingston,Dalton-Nunda Central School District (Keshequa),"PK, KG-12",0,2,1,0,446th,378,68,0.527,2
+Brooklyn,Kings,Brownsville Ascend Charter School,K-8,0,1,0,0,447th,561,114,0.525,2
+Islip,Suffolk,Islip Union Free School District,K-12,0,3,1,1,448th,439,9,0.523,2
+Wallkill,Ulster,Wallkill Central School District,K-12,0,3,1,1,449th,385,64,0.522,2
+Ellenburg Depot,Clinton,Northern Adirondack Central School District,"PK, KG-12",1,1,0,0,450th,394,56,0.521,2
+Middleport,Niagara,Royalton-Hartland Central School District,"PK, KG-12",0,1,1,1,451st,375,76,0.521,2
+Berne,Albany,Berne-Knox-Westerlo Central School District,K-12,0,1,1,0,452nd,418,34,0.518,2
+Dansville,Livingston,Dansville Central School District,"PK, KG-12",0,2,1,0,453rd,503,50,0.517,2
+Middleburgh,Schoharie,Middleburgh Central School District,"PK, KG-12",0,1,1,0,454th,431,23,0.517,2
+Jamaica,Queens,New York City Geographic District #28,"PK, KG-12",6,27,10,7,455th,454,1,0.517,2
+Silver Creek,Chautauqua,Silver Creek Central School District,"PK, KG-12",0,1,1,1,456th,417,39,0.517,2
+West Babylon,Suffolk,West Babylon Union Free School District,K-12,0,5,1,1,457th,435,22,0.516,2
+Scottsville,Monroe,Wheatland-Chili Central School District,K-12,1,1,0,0,458th,401,57,0.515,2
+Moravia,Cayuga,Moravia Central School District,"PK, KG-12",1,1,0,0,459th,442,17,0.514,2
+Ithaca,Tompkins,New Roots Charter School,9-12,0,0,1,0,460th,612,152,0.514,2
+Center Moriches,Suffolk,Center Moriches Union Free School District,K-12,0,1,1,1,461st,440,21,0.514,2
+Clintonville,Clinton,Ausable Valley Central School District,K-12,0,2,1,1,462nd,477,15,0.513,2
+Bath,Steuben,Bath Central School District,"PK, KG-12",0,2,1,0,463rd,485,22,0.512,2
+Niagara Falls,Niagara,Niagara Charter School,K-6,0,1,0,0,464th,520,56,0.511,2
+Oneida,Madison,Oneida City School District,"PK, KG-12",0,4,1,1,465th,376,89,0.51,2
+Clifton Springs,Ontario,Phelps-Clifton Springs Central School District,K-12,0,2,1,1,466th,465,1,0.51,2
+Ripley,Chautauqua,Ripley Central School District,"PK, KG-6",0,1,0,0,467th,582,115,0.51,2
+New York,New York,New York City Geographic District # 3,"PK, KG-12",3,20,12,10,468th,498,30,0.509,2
+Wellsville,Allegany,Wellsville Central School District,"PK, KG-12",1,1,0,0,469th,487,18,0.508,2
+Massena,St. Lawrence,Massena Central School District,"PK, KG-12",0,3,1,1,470th,544,74,0.507,2
+Mechanicville,Saratoga,Mechanicville City School District,K-12,1,1,0,0,471st,513,42,0.506,2
+Schenectady,Schenectady,Rotterdam-Mohonasen Central School District,K-12,0,2,1,1,472nd,338,134,0.506,2
+Shortsville,Ontario,Manchester-Shortsville Central School District (Red Jacket),"PK, KG-12",0,1,1,1,473rd,398,75,0.505,2
+Huntington Station,Suffolk,South Huntington Union Free School District,K-12,0,4,1,2,474th,448,26,0.505,2
+Pine Plains,Dutchess,Pine Plains Central School District,"PK, KG-12",0,2,1,1,475th,479,4,0.505,2
+Brooklyn,Kings,Brooklyn Charter School (The),K-5,0,1,0,0,476th,572,96,0.503,2
+Central Square,Oswego,Central Square Central School District,"PK, KG-12",0,5,1,1,477th,419,58,0.503,2
+New York,New York,New York City Geographic District # 1,"PK, KG-12",2,16,7,4,478th,500,22,0.503,2
+North Babylon,Suffolk,North Babylon Union Free School District,K-12,0,5,1,1,479th,467,12,0.502,2
+Brooklyn,Kings,Hebrew Language Academy Charter School,K-7,0,1,0,0,480th,274,206,0.501,2
+East Rockaway,Nassau,East Rockaway Union Free School District,K-12,0,2,1,0,481st,458,23,0.5,2
+Southold,Suffolk,Southold Union Free School District,K-12,0,1,1,0,482nd,345,137,0.5,2
+Sandy Creek,Oswego,Sandy Creek Central School District,"PK, KG-12",0,1,1,1,483rd,462,21,0.498,2
+Calverton,Suffolk,Riverhead Charter School,K-8,0,1,0,0,484th,529,45,0.498,2
+Turin,Lewis,South Lewis Central School District,"PK, KG-12",0,2,1,1,485th,428,57,0.497,2
+Rochester,Monroe,Greece Central School District,"PK, KG-12",2,11,2,2,486th,466,20,0.496,2
+Otego,Otsego,Otego-Unadilla Central School District,K-12,0,2,1,1,487th,483,4,0.496,2
+Brooklyn,Kings,Brooklyn Scholars Charter School,K-8,0,1,0,0,488th,480,8,0.495,2
+Middle Island,Suffolk,Longwood Central School District,K-12,1,3,1,2,489th,403,86,0.495,2
+Lake Placid,Essex,Lake Placid Central School District,K-12,1,1,0,0,490th,478,12,0.495,2
+Eldred,Sullivan,Eldred Central School District,"PK, KG-12",0,1,1,0,491st,591,100,0.495,2
+Far Rockaway,Queens,Peninsula Preparatory Academy Charter School,K-5,0,1,0,0,492nd,569,77,0.493,2
+Falconer,Chautauqua,Falconer Central School District,"PK, KG-12",1,2,0,0,493rd,441,52,0.493,2
+Watkins Glen,Schuyler,Watkins Glen Central School District,"PK, KG-12",0,1,1,0,494th,510,16,0.493,2
+Schaghticoke,Rensselaer,Hoosic Valley Central School District,K-12,0,1,1,0,495th,387,108,0.493,2
+Homer,Cortland,Homer Central School District,K-12,0,2,1,1,496th,430,66,0.491,2
+Brooklyn,Kings,New York City Geographic District #21,"PK, KG-12",2,22,10,6,497th,506,9,0.49,2
+Medina,Orleans,Medina Central School District,"PK, KG-12",0,2,1,0,498th,482,16,0.489,2
+Batavia,Genesee,Batavia City School District,"PK, KG-12",0,2,1,1,499th,521,22,0.489,2
+North Syracuse,Onondaga,North Syracuse Central School District,"PK, KG-12",1,7,1,2,500th,492,8,0.487,2
+Peru,Clinton,Peru Central School District,K-12,0,1,1,0,501st,519,18,0.484,2
+White Plains,Westchester,White Plains City School District,K-12,0,5,1,1,502nd,505,3,0.479,2
+Star Lake,St. Lawrence,Clifton-Fine Central School District,"PK, KG-12",0,1,1,0,503rd,475,28,0.479,2
+Grahamsville,Sullivan,Tri-Valley Central School District,"PK, KG-12",0,1,1,0,504th,512,8,0.479,2
+Waterloo,Seneca,Waterloo Central School District,"PK, KG-12",0,2,1,1,505th,447,58,0.479,2
+Phoenix,Oswego,Phoenix Central School District,"PK, KG-12",0,1,1,1,506th,499,7,0.479,2
+Accord,Ulster,Rondout Valley Central School District,"PK, KG-12",0,3,1,1,507th,533,26,0.478,2
+North Tonawanda,Niagara,North Tonawanda City School District,K-12,0,4,1,1,508th,473,35,0.477,2
+Bronx,Bronx,Bronx Charter School For Children (The),K-5,0,1,0,0,509th,584,75,0.477,2
+La Fayette,Onondaga,Lafayette Central School District,"PK, KG-12",0,2,1,0,510th,436,74,0.477,2
+Palmyra,Wayne,Palmyra-Macedon Central School District,"PK, KG-12",0,2,1,1,511th,515,4,0.475,2
+Hancock,Delaware,Hancock Central School District,"PK, KG-12",1,1,0,0,512th,445,67,0.474,2
+Dryden,Tompkins,Dryden Central School District,"PK, KG-12",0,3,1,1,513th,496,17,0.474,2
+Cincinnatus,Cortland,Cincinnatus Central School District,"PK, KG-12",0,1,1,1,514th,484,30,0.472,2
+Ogdensburg,St. Lawrence,Ogdensburg City School District,"PK, KG-12",0,2,1,0,515th,424,91,0.469,2
+Rochester,Monroe,Gates-Chili Central School District,"PK, KG-12",0,4,1,1,516th,488,28,0.469,2
+Brooklyn,Kings,Brooklyn Urban Garden Charter School,6-8,0,0,0,1,517th,,(n/a),0.468,2
+Centereach,Suffolk,Middle Country Central School District,"PK, KG-12",0,10,2,2,518th,461,57,0.467,2
+Brooklyn,Kings,New Hope Academy Charter School,K-5,0,1,0,0,519th,600,81,0.465,2
+Seneca Falls,Seneca,Seneca Falls Central School District,K-12,1,1,1,1,520th,415,105,0.464,2
+Hoosick Falls,Rensselaer,Hoosick Falls Central School District,"PK, KG-12",0,1,1,0,521st,373,148,0.464,2
+Mexico,Oswego,Mexico Central School District,"PK, KG-12",0,3,1,1,522nd,594,72,0.464,2
+Norwich,Chenango,Norwich City School District,"PK, KG-12",0,2,1,1,523rd,534,11,0.463,2
+Chateaugay,Franklin,Chateaugay Central School District,"PK, KG-12",0,1,1,0,524th,329,195,0.463,2
+Elmsford,Westchester,Elmsford Union Free School District,"PK, KG-12",0,2,1,0,525th,570,45,0.463,2
+Catskill,Greene,Catskill Central School District,"PK, KG-12",1,1,0,1,526th,609,83,0.462,2
+Frankfort,Herkimer,Frankfort-Schuyler Central School District,"PK, KG-12",0,1,1,1,527th,471,56,0.461,2
+Morrisville,Madison,Morrisville-Eaton Central School District,"PK, KG-12",1,1,0,0,528th,472,56,0.461,2
+Plattsburgh,Clinton,Plattsburgh City School District,"PK, KG-12",0,3,1,1,529th,527,2,0.461,2
+Camden,Oneida,Camden Central School District,"PK, KG-12",0,3,1,1,530th,413,117,0.46,2
+West Chazy,Clinton,Beekmantown Central School District,"PK, KG-12",1,2,1,1,531st,543,12,0.46,2
+Mc Graw,Cortland,McGraw Central School District,K-12,1,1,0,0,532nd,535,3,0.459,2
+Canajoharie,Montgomery,Canajoharie Central School District,"PK, KG-12",0,1,1,1,533rd,386,147,0.459,2
+Fort Montgomery,Orange,Highland Falls Central School District,"PK, KG-12",0,2,1,0,534th,434,100,0.457,2
+Ticonderoga,Essex,Ticonderoga Central School District,"PK, KG-12",0,1,1,1,535th,476,59,0.456,2
+Copiague,Suffolk,Copiague Union Free School District,K-12,0,4,1,1,536th,603,67,0.456,2
+Newark Valley,Tioga,Newark Valley Central School District,"PK, KG-12",0,2,1,0,537th,581,44,0.454,2
+Craryville,Columbia,Taconic Hills Central School District,"PK, KG-12",0,1,1,0,538th,597,59,0.452,2
+Cohoes,Albany,Cohoes City School District,K-12,0,3,1,1,539th,517,22,0.452,2
+Southampton,Suffolk,Southampton Union Free School District,"PK, KG-12",0,2,1,0,540th,457,83,0.452,2
+Northville,Fulton,Northville Central School District,"PK, KG-12",1,1,0,0,541st,553,12,0.45,2
+Franklinville,Cattaraugus,Franklinville Central School District,"PK, KG-12",0,1,1,0,542nd,449,93,0.45,2
+Albion,Orleans,Albion Central School District,"PK, KG-12",0,1,1,1,543rd,481,62,0.449,2
+Corinth,Saratoga,Corinth Central School District,K-12,0,1,1,1,544th,576,32,0.448,2
+Ilion,Herkimer,Central Valley Central School District At Ilion-Mohawk,"PK, KG-12",0,2,1,1,545th,614,69,0.448,2
+Little Falls,Herkimer,Little Falls City School District,"PK, KG-12",0,1,1,1,546th,526,20,0.447,2
+Washingtonville,Orange,Washingtonville Central School District,"PK, KG-12",0,3,1,1,547th,536,11,0.446,2
+Hermon,St. Lawrence,Edwards-Knox Central School District,"PK, KG-12",0,1,1,0,548th,493,55,0.444,2
+Saranac Lake,Franklin,Saranac Lake Central School District,K-12,0,2,1,1,549th,511,38,0.443,2
+Norwood,St. Lawrence,Norwood-Norfolk Central School District,"PK, KG-12",0,1,1,1,550th,486,64,0.443,2
+Buffalo,Erie,Kenmore-Tonawanda Union Free School District,K-12,0,5,2,2,551st,546,5,0.443,2
+Sinclairville,Chautauqua,Cassadaga Valley Central School District,"PK, KG-12",1,1,0,0,552nd,595,43,0.442,2
+St Johnsville,Montgomery,Oppenheim-Ephratah-St. Johnsville Central School District,"PK, KG-12",0,1,1,0,553rd,563,10,0.442,2
+Huntington Station,Suffolk,Huntington Union Free School District,K-12,0,5,1,2,554th,551,3,0.442,2
+Boonville,Oneida,Adirondack Central School District,"PK, KG-12",0,3,1,1,555th,524,31,0.44,2
+Greenville,Greene,Greenville Central School District,K-12,1,1,1,0,556th,504,52,0.44,2
+New Lebanon,Columbia,New Lebanon Central School District,"PK, KG-12",0,1,1,0,557th,469,88,0.44,2
+Endicott,Broome,Union-Endicott Central School District,K-12,1,4,1,1,558th,501,57,0.44,2
+Brasher Falls,St. Lawrence,Brasher Falls Central School District,"PK, KG-12",0,1,1,1,559th,463,96,0.439,2
+Tupper Lake,Franklin,Tupper Lake Central School District,"PK, KG-12",0,1,1,0,560th,579,19,0.439,2
+Jasper,Steuben,Jasper-Troupsburg Central School District,K-12,0,1,1,0,561st,633,72,0.438,2
+Fort Plain,Montgomery,Fort Plain Central School District,"PK, KG-12",0,1,1,0,562nd,433,129,0.437,1
+North Collins,Erie,North Collins Central School District,"PK, KG-12",0,1,1,0,563rd,229,334,0.437,1
+Port Jefferson Station,Suffolk,Brookhaven-Comsewogue Union Free School District,K-12,0,4,1,1,564th,560,4,0.436,1
+Elmira Heights,Chemung,Elmira Heights Central School District,"PK, KG-12",0,1,1,1,565th,497,68,0.433,1
+Liverpool,Onondaga,Liverpool Central School District,K-12,0,9,1,3,566th,502,64,0.432,1
+Angola,Erie,Evans-Brant Central School District (Lake Shore),K-12,0,3,1,1,567th,548,19,0.432,1
+Brooklyn,Kings,Brooklyn Excelsior Charter School,K-8,0,1,0,0,568th,649,81,0.43,1
+Carthage,Jefferson,Carthage Central School District,K-12,0,3,1,1,569th,491,78,0.43,1
+Freeport,Nassau,Freeport Union Free School District,K-12,0,5,1,2,570th,607,37,0.429,1
+Lyndonville,Orleans,Lyndonville Central School District,"PK, KG-12",0,1,1,0,571st,522,49,0.428,1
+Bolivar,Allegany,Bolivar-Richburg Central School District,"PK, KG-12",1,1,0,0,572nd,587,15,0.426,1
+Schoharie,Schoharie,Schoharie Central School District,"PK, KG-12",0,1,1,0,573rd,452,121,0.425,1
+Dover Plains,Dutchess,Dover Union Free School District,K-12,0,2,1,1,574th,550,24,0.424,1
+Sherburne,Chenango,Sherburne-Earlville Central School District,"PK, KG-12",0,1,1,1,575th,556,19,0.422,1
+East Syracuse,Onondaga,East Syracuse Minoa Central School District,"PK, KG-12",0,5,1,1,576th,495,81,0.422,1
+Odessa,Schuyler,Odessa-Montour Central School District,"PK, KG-12",0,2,1,0,577th,599,22,0.42,1
+Newfield,Tompkins,Newfield Central School District,"PK, KG-12",0,1,1,1,578th,508,70,0.419,1
+New Berlin,Chenango,Unadilla Valley Central School District,"PK, KG-12",1,1,0,0,579th,555,24,0.419,1
+Wolcott,Wayne,North Rose-Wolcott Central School District,"PK, KG-12",0,1,1,1,580th,640,60,0.419,1
+Garnerville,Rockland,Haverstraw-Stony Point Central School District (North Rockl,K-12,0,6,1,1,581st,540,41,0.418,1
+Sidney,Delaware,Sidney Central School District,"PK, KG-12",0,1,1,1,582nd,523,59,0.418,1
+Bay Shore,Suffolk,Bay Shore Union Free School District,K-12,0,5,1,1,583rd,618,35,0.417,1
+Warrensburg,Warren,Warrensburg Central School District,"PK, KG-12",0,1,1,0,584th,564,20,0.416,1
+New York,New York,Great Oaks Charter School,6-8,0,0,0,1,585th,,(n/a),0.416,1
+South Dayton,Cattaraugus,Pine Valley Central School District (South Dayton),"PK, KG-12",0,1,1,0,586th,531,55,0.415,1
+Ozone Park,Queens,New York City Geographic District #27,"PK, KG-12",5,38,10,9,587th,557,30,0.412,1
+Brooklyn,Kings,La Cima Charter School,K-5,0,1,0,0,588th,683,95,0.41,1
+Coxsackie,Greene,Coxsackie-Athens Central School District,K-12,0,2,1,1,589th,423,166,0.409,1
+Fort Edward,Washington,Hudson Falls Central School District,"PK, KG-12",0,3,1,1,590th,568,22,0.409,1
+New York,New York,Harbor Science And Arts Charter School,K-8,0,1,0,0,591st,296,295,0.408,1
+Cherry Plain,Rensselaer,Berlin Central School District,"PK, KG-12",1,1,0,0,592nd,559,33,0.408,1
+Holley,Orleans,Holley Central School District,"PK, KG-12",0,1,1,0,593rd,537,56,0.407,1
+Port Jervis,Orange,Port Jervis City School District,K-12,0,2,1,1,594th,601,7,0.407,1
+Amenia,Dutchess,Northeast Central School District,"PK, KG-12",0,2,1,0,595th,588,7,0.405,1
+West Winfield,Herkimer,Mount Markham Central School District,"PK, KG-12",0,1,1,1,596th,605,9,0.404,1
+Brooklyn,Kings,Bedford Stuyvesant New Beginnings Charter School,K-8,0,1,0,0,597th,695,98,0.404,1
+Staten Island,Richmond,New World Preparatory Charter School,6-8,0,0,0,1,598th,406,192,0.402,1
+Olean,Cattaraugus,Olean City School District,"PK, KG-12",0,3,1,0,599th,494,105,0.4,1
+Wyoming,Wyoming,Wyoming Central School District,K-8,0,1,0,0,600th,653,53,0.399,1
+Sloan,Erie,Cheektowaga-Sloan Union Free School District,"PK, KG-12",0,2,1,1,601st,593,8,0.399,1
+Bronx,Bronx,University Prep Charter High School,9-12,0,0,1,0,602nd,631,29,0.397,1
+Springfield Gardens,Queens,Merrick Academy-Queens Public Charter School,K-5,0,1,0,0,603rd,574,29,0.395,1
+Pulaski,Oswego,Pulaski Central School District,"PK, KG-12",0,1,1,1,604th,552,52,0.395,1
+Ovid,Seneca,South Seneca Central School District,"PK, KG-12",1,1,0,0,605th,596,9,0.394,1
+Hartsdale,Westchester,Greenburgh Central School District,"PK, KG-12",0,4,1,1,606th,545,61,0.393,1
+Lockport,Niagara,Lockport City School District,K-12,0,4,2,2,607th,516,91,0.391,1
+Johnson City,Broome,Johnson City Central School District,K-12,0,2,1,1,608th,619,11,0.387,1
+Johnstown,Fulton,Johnstown City School District,"PK, KG-12",0,3,1,1,609th,577,32,0.386,1
+Brooklyn,Kings,Brooklyn Laboratory Charter School,6-8,0,0,0,1,610th,,(n/a),0.382,1
+Watervliet,Albany,Watervliet City School District,"PK, KG-12",0,1,1,0,611th,677,66,0.38,1
+Hastings On Hudson,Westchester,Greenburgh-Graham Union Free School District,K-12,2,0,1,0,612th,729,117,0.38,1
+Watertown,Jefferson,Watertown City School District,K-12,0,5,1,2,613th,580,33,0.379,1
+Buffalo,Erie,Western New York Maritime Charter School,7-12,0,0,1,0,614th,528,86,0.378,1
+Cortland,Cortland,Cortland City School District,K-12,0,5,1,0,615th,585,30,0.378,1
+Brocton,Chautauqua,Brocton Central School District,"PK, KG-12",1,1,0,0,616th,573,43,0.376,1
+Hyde Park,Dutchess,Hyde Park Central School District,K-12,0,4,1,1,617th,615,2,0.375,1
+Brooklyn,Kings,Hyde Leadership Charter School - Brooklyn,K-5,0,1,0,0,618th,608,10,0.373,1
+Oswego,Oswego,Oswego City School District,K-12,0,5,1,1,619th,547,72,0.371,1
+Brooklyn,Kings,Explore Excel Charter School,K-8,0,1,0,0,620th,647,27,0.369,1
+Cedarhurst,Nassau,Lawrence Union Free School District,"PK, KG-12",0,3,1,1,621st,554,67,0.368,1
+Kingston,Ulster,Kingston City School District,"PK, KG-12",0,7,1,2,622nd,634,12,0.368,1
+Whitehall,Washington,Whitehall Central School District,"PK, KG-12",1,1,0,0,623rd,690,67,0.366,1
+Glen Cove,Nassau,Glen Cove City School District,"PK, KG-12",0,4,1,1,624th,621,3,0.365,1
+Marathon,Cortland,Marathon Central School District,"PK, KG-12",0,1,1,0,625th,558,67,0.364,1
+Southampton,Suffolk,Tuckahoe Common School District,"PK, KG-8",0,1,0,0,626th,686,60,0.362,1
+Addison,Steuben,Addison Central School District,"PK, KG-12",1,2,0,0,627th,575,52,0.361,1
+Rochester,Monroe,East Irondequoit Central School District,"PK, KG-12",0,4,1,1,628th,637,9,0.359,1
+Buffalo,Erie,West Buffalo Charter School,K-5,0,1,0,0,629th,613,16,0.358,1
+Hampton Bays,Suffolk,Hampton Bays Union Free School District,"PK, KG-12",1,1,0,1,630th,565,65,0.357,1
+Bronx,Bronx,Bglig-Shirley Rodriguez-Remeneski Charter School,K-8,0,1,0,0,631st,370,261,0.354,1
+Sodus,Wayne,Sodus Central School District,"PK, KG-12",0,2,1,0,632nd,610,22,0.353,1
+Far Rockaway,Queens,Challenge Preparatory Charter School,K-7,0,1,0,0,633rd,399,234,0.353,1
+Gowanda,Cattaraugus,Gowanda Central School District,"PK, KG-12",0,1,1,1,634th,583,51,0.352,1
+Port Chester,Westchester,Port Chester-Rye Union Free School District,K-12,0,4,1,1,635th,592,43,0.352,1
+New York,New York,John V Lindsay Wildcat Academy Charter School,9-12,0,0,1,0,636th,525,111,0.351,1
+Middletown,Orange,Middletown City School District,K-12,0,3,1,2,637th,672,35,0.349,1
+Ossining,Westchester,Ossining Union Free School District,"PK, KG-12",0,3,1,2,638th,652,14,0.348,1
+Brooklyn,Kings,New York City Geographic District #13,"PK, KG-12",2,19,14,6,639th,620,19,0.347,1
+Mastic Beach,Suffolk,William Floyd Union Free School District,K-12,0,5,1,2,640th,611,29,0.345,1
+New York,New York,Future Leaders Institute Charter School,K-8,0,1,0,0,641st,666,25,0.345,1
+Brooklyn,Kings,Math Engineering And Science Academy Charter High School,9-12,0,0,1,0,642nd,669,27,0.344,1
+New York,New York,New York City Geographic District # 4,"PK, KG-12",2,20,5,4,643rd,628,15,0.343,1
+Brooklyn,Kings,New York City Geographic District #14,"PK, KG-12",3,20,11,5,644th,658,14,0.34,1
+Canastota,Madison,Canastota Central School District,"PK, KG-12",0,3,1,0,645th,542,103,0.338,1
+Fulton,Oswego,Fulton City School District,K-12,0,4,1,1,646th,571,75,0.338,1
+Solvay,Onondaga,Solvay Union Free School District,"PK, KG-12",0,2,1,0,647th,641,6,0.337,1
+Dunkirk,Chautauqua,Dunkirk City School District,"PK, KG-12",0,5,1,0,648th,638,10,0.335,1
+Queens Village,Queens,New York City Geographic District #29,"PK, KG-12",4,28,7,7,649th,622,27,0.334,1
+Brooklyn,Kings,Community Partnership Charter School,K-8,0,1,0,0,650th,626,24,0.331,1
+Brooklyn,Kings,Invictus Preparatory Charter School,5-8,0,0,0,1,651st,697,46,0.328,1
+Harpursville,Broome,Harpursville Central School District,"PK, KG-12",0,1,1,0,652nd,578,74,0.327,1
+Liberty,Sullivan,Liberty Central School District,"PK, KG-12",1,1,0,0,653rd,632,21,0.326,1
+Yonkers,Westchester,Yonkers City School District,"PK, KG-12",1,31,7,1,654th,671,17,0.326,1
+Bronx,Bronx,New York City Geographic District #11,"PK, KG-12",0,31,17,15,655th,660,5,0.324,1
+Herkimer,Herkimer,Herkimer Central School District,"PK, KG-12",0,1,1,0,656th,589,67,0.319,1
+New York,New York,New York City Geographic District # 6,"PK, KG-12",4,26,7,11,657th,659,2,0.319,1
+Harrisville,Lewis,Harrisville Central School District,"PK, KG-12",0,1,1,0,658th,562,96,0.319,1
+Auburn,Cayuga,Auburn City School District,K-12,0,5,1,1,659th,656,3,0.316,1
+Malone,Franklin,Malone Central School District,"PK, KG-12",0,3,1,1,660th,643,17,0.316,1
+Troy,Rensselaer,Lansingburgh Central School District,"PK, KG-12",0,2,1,1,661st,625,36,0.316,1
+Glens Falls,Warren,Glens Falls Common School District,K-6,0,1,0,0,662nd,741,79,0.315,1
+Bronx,Bronx,Bronx Community Charter School,K-7,0,1,0,0,663rd,700,37,0.315,1
+Niagara Falls,Niagara,Niagara Falls City School District,"PK, KG-12",0,8,1,2,664th,676,12,0.312,1
+Waverly,Tioga,Waverly Central School District,"PK, KG-12",0,2,1,1,665th,602,63,0.312,1
+Brooklyn,Kings,Teaching Firms Of America Pro Prep,K-6,0,1,0,0,666th,630,36,0.311,1
+Buffalo,Erie,South Buffalo Charter School,K-8,0,1,0,0,667th,616,51,0.31,1
+Dundee,Yates,Dundee Central School District,"PK, KG-12",1,0,1,0,668th,627,41,0.31,1
+Brooklyn,Kings,Cultural Arts Academy Charter School At Spring Creek,K-5,0,1,0,0,669th,642,27,0.309,1
+Albany,Albany,Brighter Choice Charter School For Boys,K-5,0,1,0,0,670th,359,311,0.308,1
+Afton,Chenango,Afton Central School District,"PK, KG-12",0,1,1,0,671st,673,2,0.308,1
+Walton,Delaware,Walton Central School District,"PK, KG-12",0,1,1,1,672nd,623,49,0.308,1
+Rensselaer,Rensselaer,Rensselaer City School District,"PK, KG-12",0,1,1,0,673rd,667,6,0.306,1
+Groton,Tompkins,Groton Central School District,"PK, KG-12",1,1,0,0,674th,635,39,0.304,1
+Brooklyn,Kings,New York City Geographic District #17,"PK, KG-12",5,22,14,9,675th,661,14,0.304,1
+Buffalo,Erie,King Center Charter School,K-8,0,1,0,0,676th,680,4,0.303,1
+Bronx,Bronx,Metropolitan Lighthouse Charter School,K-8,0,1,0,0,677th,,(n/a),0.301,1
+Syracuse,Onondaga,Southside Academy Charter School,K-8,0,1,0,0,678th,726,48,0.301,1
+Brooklyn,Kings,New Dawn Charter High School,9-12,0,0,1,0,679th,756,77,0.301,1
+Rome,Oneida,Rome City School District,"PK, KG-12",0,7,1,2,680th,617,63,0.3,1
+Brushton,Franklin,Brushton-Moira Central School District,"PK, KG-12",1,1,0,0,681st,675,6,0.299,1
+Bronx,Bronx,New Visions Charter High School-Adv Ma/Sci II,9-12,0,0,1,0,682nd,663,19,0.299,1
+Newburgh,Orange,Newburgh City School District,"PK, KG-12",0,9,1,2,683rd,682,1,0.298,1
+Brooklyn,Kings,Explore Empower Charter School,K-8,0,1,0,0,684th,654,30,0.298,1
+Brooklyn,Kings,New Visions Charter High School-Adv Ma/Sci III,9-12,0,0,1,0,685th,678,7,0.297,1
+Newark,Wayne,Newark Central School District,"PK, KG-12",0,3,1,1,686th,639,47,0.296,1
+New York,New York,East Harlem Scholars Academy Charter School II,"PK, KG-4",0,1,0,0,687th,,(n/a),0.296,1
+Clyde,Wayne,Clyde-Savannah Central School District,"PK, KG-12",0,1,1,1,688th,655,33,0.295,1
+Parish,Oswego,Altmar-Parish-Williamstown Central School District,"PK, KG-12",0,1,1,0,689th,644,45,0.294,1
+Brooklyn,Kings,Explore Charter School,K-8,0,1,0,0,690th,604,86,0.293,1
+Lyons,Wayne,Lyons Central School District,"PK, KG-12",0,1,1,1,691st,650,41,0.292,1
+Gouverneur,St. Lawrence,Gouverneur Central School District,"PK, KG-12",1,2,0,0,692nd,646,46,0.29,1
+Hornell,Steuben,Hornell City School District,K-12,1,2,1,1,693rd,636,57,0.286,1
+Old Westbury,Nassau,Westbury Union Free School District,"PK, KG-12",0,4,2,1,694th,681,13,0.285,1
+Bronx,Bronx,New York City Geographic District #10,"PK, KG-12",5,42,24,14,695th,668,27,0.282,1
+Cairo,Greene,Cairo-Durham Central School District,K-12,0,1,1,1,696th,648,48,0.282,1
+Greenport,Suffolk,Greenport Union Free School District,"PK, KG-12",0,1,1,0,697th,425,272,0.281,1
+Bronx,Bronx,Nyc Charter High School - Aeci,9-12,0,0,1,0,698th,699,1,0.274,1
+New York,New York,Broome Street Academy Charter High School,9-12,0,0,1,0,699th,707,8,0.27,1
+Brooklyn,Kings,New York City Geographic District #18,"PK, KG-12",0,13,14,8,700th,688,12,0.27,1
+Jamestown,Chautauqua,Jamestown City School District,"PK, KG-12",1,5,1,2,701st,662,39,0.269,1
+Port Byron,Cayuga,Port Byron Central School District,"PK, KG-12",0,1,1,0,702nd,566,136,0.267,1
+Syracuse,Onondaga,Lyncourt Union Free School District,"PK, KG-8",0,1,0,0,703rd,651,52,0.264,1
+Caroga Lake,Fulton,Wheelerville Union Free School District,"PK, KG-8",0,1,0,0,704th,606,98,0.263,1
+New York,New York,Harlem Link Charter School,"PK, KG-5",0,1,0,0,705th,716,11,0.261,1
+Hannibal,Oswego,Hannibal Central School District,"PK, KG-12",0,1,1,1,706th,657,49,0.26,1
+Mount Vernon,Westchester,Mount Vernon School District,"PK, KG-12",0,11,3,2,707th,703,4,0.257,1
+Roosevelt,Nassau,Roosevelt Children's Academy Charter School,K-8,0,1,0,0,708th,693,15,0.257,1
+New York,New York,Manhattan Charter School II,K-5,0,1,0,0,709th,358,351,0.256,1
+Troy,Rensselaer,Troy City School District,"PK, KG-12",0,5,2,1,710th,696,14,0.255,1
+Patchogue,Suffolk,Patchogue-Medford Union Free School District,K-12,0,7,1,3,711th,645,66,0.254,1
+Brooklyn,Kings,New York City Geographic District #32,"PK, KG-12",2,13,6,6,712th,698,14,0.251,1
+Candor,Tioga,Candor Central School District,K-12,0,1,1,0,713th,670,43,0.249,1
+Gloversville,Fulton,Gloversville City School District,"PK, KG-12",0,4,1,1,714th,704,10,0.242,1
+East Patchogue,Suffolk,South Country Central School District,"PK, KG-12",0,4,1,1,715th,692,23,0.242,1
+Bronx,Bronx,New York City Geographic District # 8,"PK, KG-12",3,22,18,13,716th,711,5,0.24,1
+Geneva,Ontario,Geneva City School District,"PK, KG-12",0,2,1,1,717th,679,38,0.24,1
+Albany,Albany,Albany Leadership Charter High School For Girls,9-12,0,0,1,0,718th,674,44,0.239,1
+Brooklyn,Kings,New York City Geographic District #16,"PK, KG-12",1,14,6,5,719th,665,54,0.239,1
+Mount Vernon,Westchester,Amani Public Charter School,5-8,0,0,0,1,720th,590,130,0.238,1
+Fort Covington,Franklin,Salmon River Central School District,"PK, KG-12",0,2,1,1,721st,694,27,0.236,1
+Ellenville,Ulster,Ellenville Central School District,"PK, KG-12",0,1,1,1,722nd,684,38,0.233,0
+New York,New York,Global Community Charter School,K-5,0,1,0,0,723rd,,(n/a),0.231,0
+Monticello,Sullivan,Monticello Central School District,K-12,0,3,1,1,724th,687,37,0.231,0
+Hudson,Columbia,Hudson City School District,"PK, KG-12",0,2,1,1,725th,689,36,0.228,0
+Brooklyn,Kings,Northside Charter High School,9-12,0,0,1,0,726th,739,13,0.224,0
+New York,New York,New York City Geographic District # 5,"PK, KG-12",4,16,6,3,727th,708,19,0.223,0
+Bronx,Bronx,New Visions Charter High School For The Humanities,9-12,0,0,1,0,728th,664,64,0.219,0
+Northville,Fulton,Edinburg Common School District,"PK, KG-6",0,1,0,0,729th,722,7,0.217,0
+Riverhead,Suffolk,Riverhead Central School District,K-12,0,4,2,2,730th,685,45,0.217,0
+Buffalo,Erie,Oracle Charter School,9-12,0,0,1,0,731st,746,15,0.216,0
+Bronx,Bronx,New York City Geographic District # 9,"PK, KG-12",8,30,16,16,732nd,714,18,0.216,0
+Staten Island,Richmond,New Ventures Charter School,9-12,0,0,1,0,733rd,,(n/a),0.215,0
+Brooklyn,Kings,Williamsburg Charter High School,9-12,0,0,1,0,734th,712,22,0.214,0
+New York,New York,St. Hope Leadership Academy Charter School,6-8,0,0,0,1,735th,752,17,0.211,0
+Bronx,Bronx,Heketi Community Charter School,K-5,0,1,0,0,736th,629,107,0.211,0
+Central Islip,Suffolk,Central Islip Union Free School District,"PK, KG-12",0,5,1,2,737th,702,35,0.211,0
+Cheektowaga,Erie,Cheektowaga Central School District,"PK, KG-12",1,1,1,1,738th,723,15,0.209,0
+Bronx,Bronx,Atmosphere Academy Public Charter School,6-7,0,0,0,1,739th,,(n/a),0.201,0
+Brentwood,Suffolk,Brentwood Union Free School District,"PK, KG-12",1,11,1,4,740th,717,23,0.2,0
+Brooklyn,Kings,Launch Expeditionary Learning Charter School,6-8,0,0,0,1,741st,734,7,0.197,0
+Albany,Albany,Green Technical High Charter School,9-12,0,0,1,0,742nd,727,15,0.196,0
+Spring Valley,Rockland,East Ramapo Central School District (Spring Valley),K-12,0,10,2,2,743rd,724,19,0.195,0
+Utica,Oneida,Utica City School District,K-12,0,10,1,2,744th,701,43,0.191,0
+Brooklyn,Kings,New York City Geographic District #23,"PK, KG-12",2,15,5,7,745th,718,27,0.189,0
+Albany,Albany,Albany Community Charter School,K-8,0,1,0,0,746th,740,6,0.188,0
+Bronx,Bronx,New York City Geographic District # 7,"PK, KG-12",4,17,15,6,747th,713,34,0.187,0
+Peekskill,Westchester,Peekskill City School District,"PK, KG-12",0,4,1,1,748th,720,28,0.185,0
+Jamaica,Queens,New Visions Charter High School-Adv Ma/Sci IV,9-12,0,0,1,0,749th,,(n/a),0.184,0
+Salamanca,Cattaraugus,Salamanca City School District,"PK, KG-12",0,2,1,0,750th,709,41,0.184,0
+Brooklyn,Kings,New York City Geographic District #19,"PK, KG-12",4,22,11,12,751st,721,30,0.183,0
+Brooklyn,Kings,Explore Exceed Charter School,K-7,0,1,0,0,752nd,748,4,0.179,0
+Elmira,Chemung,Elmira City School District,"PK, KG-12",1,8,1,1,753rd,706,47,0.175,0
+Bronx,Bronx,Technical International Charter School,6-8,0,0,0,1,754th,737,17,0.174,0
+Hempstead,Nassau,Hempstead Union Free School District,"PK, KG-12",1,8,1,0,755th,742,13,0.174,0
+Mount Morris,Livingston,Mount Morris Central School District,"PK, KG-12",0,1,1,0,756th,715,41,0.172,0
+Fallsburg,Sullivan,Fallsburg Central School District,"PK, KG-12",0,1,1,0,757th,719,38,0.167,0
+Buffalo,Erie,Buffalo City School District,"PK, KG-12",8,36,15,1,758th,738,20,0.162,0
+Buffalo,Erie,Buffalo United Charter School,K-8,0,1,0,0,759th,705,54,0.159,0
+Rochester,Monroe,Rochester Academy Charter School,7-12,0,0,1,0,760th,735,25,0.157,0
+Binghamton,Broome,Binghamton City School District,"PK, KG-12",0,7,1,2,761st,744,17,0.147,0
+Amsterdam,Montgomery,Amsterdam City School District,"PK, KG-12",0,4,1,1,762nd,730,32,0.146,0
+Roosevelt,Nassau,Roosevelt Union Free School District,"PK, KG-12",0,3,1,1,763rd,743,20,0.143,0
+Albany,Albany,Henry Johnson Charter School,K-4,0,1,0,0,764th,751,13,0.141,0
+Rochester,Monroe,Urban Choice Charter School,K-8,0,1,0,0,765th,725,40,0.139,0
+Brooklyn,Kings,New American Academy Charter School (The),K-4,0,1,0,0,766th,,(n/a),0.134,0
+Buffalo,Erie,Health Sciences Charter School,9-12,0,0,1,0,767th,691,76,0.133,0
+Bronx,Bronx,New York City Geographic District #12,"PK, KG-12",4,22,13,11,768th,747,21,0.132,0
+Wyandanch,Suffolk,Wyandanch Union Free School District,"PK, KG-12",0,2,1,1,769th,753,16,0.131,0
+Albany,Albany,Albany City School District,"PK, KG-12",1,12,1,3,770th,736,34,0.131,0
+Bronx,Bronx,Mott Hall Charter School,6-8,0,0,0,1,771st,710,61,0.131,0
+Albany,Albany,Brighter Choice Charter School For Girls,K-5,0,1,0,0,772nd,624,148,0.129,0
+Bronx,Bronx,New Visions Charter High School-Adv Math/Scie,9-12,0,0,1,0,773rd,758,15,0.121,0
+Brooklyn,Kings,Citizens Of The World Charter School New York 1,K-4,0,1,0,0,774th,,(n/a),0.119,0
+Schenectady,Schenectady,Schenectady City School District,"PK, KG-12",0,11,1,3,775th,750,25,0.115,0
+Buffalo,Erie,Aloma D Johnson Charter School,K-4,0,1,0,0,776th,733,43,0.113,0
+Rochester,Monroe,Renaissance Academy Charter School Of The Arts,K-4,0,1,0,0,777th,,(n/a),0.11,0
+Buffalo,Erie,Westminster Community Charter School,K-8,0,1,0,0,778th,731,47,0.11,0
+Rochester,Monroe,Discovery Charter School,K-6,0,1,0,0,779th,728,51,0.109,0
+Amityville,Suffolk,Amityville Union Free School District,"PK, KG-12",1,3,1,0,780th,732,48,0.106,0
+Lackawanna,Erie,Lackawanna City School District,"PK, KG-12",0,2,1,1,781st,745,36,0.105,0
+Poughkeepsie,Dutchess,Poughkeepsie City School District,"PK, KG-12",0,6,1,1,782nd,757,25,0.103,0
+Rochester,Monroe,University Preparatory Charter School For Young Men,7-12,0,0,1,0,783rd,749,34,0.1,0
+Brooklyn,Kings,New Visions Charter High School For The Humanities III,9-12,0,0,1,0,784th,754,30,0.097,0
+Syracuse,Onondaga,Syracuse City School District,"PK, KG-12",10,17,7,0,785th,755,30,0.091,0
+Canaan,Columbia,Berkshire Union Free School District,7-12,0,0,2,0,786th,770,16,0.088,0
+Buffalo,Erie,Enterprise Charter School,K-8,0,1,0,0,787th,760,27,0.086,0
+Rochester,Monroe,Puc Achieve Charter School,5-7,0,0,0,1,788th,,(n/a),0.071,0
+Brooklyn,Kings,Citizens Of The World Charter School 2,K-4,0,1,0,0,789th,,(n/a),0.07,0
+New York,New York,Rensaissance Charter High School For Innovation,9-12,0,0,1,0,790th,766,24,0.053,0
+Rochester,Monroe,Rochester City School District,"PK, KG-12",3,35,13,1,791st,762,29,0.052,0
+Bronx,Bronx,New York City Montessori Charter School,"PK, KG-5",0,1,0,0,792nd,763,29,0.048,0
+Elmira,Chemung,Finn Academy-An Elmira Charter School,K-4,0,1,0,0,793rd,,(n/a),0.046,0
+Bronx,Bronx,South Bronx Early College Academy Charter School,6-7,0,0,0,1,794th,,(n/a),0.045,0
+Bronx,Bronx,New Visions Charter High School For Humanities II,9-12,0,0,1,0,795th,759,36,0.039,0
+Dobbs Ferry,Westchester,Greenburgh Eleven Union Free School District,K-12,1,1,1,0,796th,769,27,0.015,0
+Newburgh,Orange,Newburgh Preparatory Charter High School,9-12,0,0,1,0,797th,761,36,0.013,0
+Rochester,Monroe,Rochester Career Mentoring Charter School,9-12,0,0,1,0,798th,765,33,0.011,0
+Brooklyn,Kings,Urban Dove Team Charter School,9-12,0,0,1,0,799th,764,35,0.006,0
+Bronx,Bronx,Roads Charter School II,9-12,0,0,1,0,800th,767,33,0.005,0
+Brooklyn,Kings,Roads Charter School 1,9-12,0,0,1,0,801st,768,33,0.002,0
+Rochester,Monroe,Young Women's College Prep Charter School Of Rochester,7-11,1,0,0,0,,,(n/a),,0
+Buffalo,Erie,Tapestry Charter School,K-12,1,0,0,0,,,(n/a),,0
+Irvington,Westchester,Abbott Union Free School District,,0,0,0,0,,,(n/a),,0
+New York,New York,Harlem Village Academy Charter School,K-12,1,0,0,0,,,(n/a),,0
+Sackets Harbor,Jefferson,Sackets Harbor Central School District,K-12,1,0,0,0,,,(n/a),,0
+New York,New York,Harlem Prep Charter School,K-9,1,0,0,0,,,(n/a),,0
+Sagaponack,Suffolk,Sagaponack Common School District,K-3,0,1,0,0,,,(n/a),,0
+New York,New York,Harlem Children's Zone Promise Academy II Charter School,K-12,1,0,0,0,,,(n/a),,0
+Saint Regis Falls,Franklin,Saint Regis Falls Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+New York,New York,Harlem Children's Zone Promise Academy Charter School,K-12,1,0,0,0,,,(n/a),,0
+Bronx,Bronx,Rosalyn Yalow Charter School,K-2,0,1,0,0,,,(n/a),,0
+Hammond,St. Lawrence,Hammond Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+West Nyack,Rockland,Rockland Boces,,1,0,0,0,,,(n/a),,0
+Johnstown,Fulton,Hamilton-Fulton-Montgomery Boces,,1,0,0,0,,,(n/a),,0
+Castleton,Rensselaer,Rensselaer-Columbia-Greene Boces,,1,0,1,0,,,(n/a),,0
+Jamaica,Queens,Growing Up Green Charter School II,"PK, KG-2",0,1,0,0,,,(n/a),,0
+Randolph,Cattaraugus,Randolph Academy Union Free School District,K-12,2,0,0,0,,,(n/a),,0
+Ithaca,Tompkins,Tompkins-Seneca-Tioga Boces,,1,0,0,0,,,(n/a),,0
+Putnam Station,Washington,Putnam Central School District,"PK, KG-6",0,1,0,0,,,(n/a),,0
+Tonawanda,Erie,Tonawanda City School District,"PK, KG-12",1,3,0,0,,,(n/a),,0
+Grand Gorge,Delaware,Otsego-Delaware-Schoharie-Greene Boces,,1,0,0,0,,,(n/a),,0
+Old Forge,Herkimer,Town Of Webb Union Free School District,K-12,1,0,0,0,,,(n/a),,0
+Schenevus,Otsego,Schenevus Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Dobbs Ferry,Westchester,Greenburgh-North Castle Union Free School District,7-12,0,0,4,0,,,(n/a),,0
+Goshen,Orange,Orange-Ulster Boces,,1,0,0,0,,,(n/a),,0
+Green Island,Albany,Green Island Union Free School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Schroon Lake,Essex,Schroon Lake Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Rochester,Monroe,True North Rochester Preparatory Charter School,K-11,1,0,0,0,,,(n/a),,0
+New York,New York,Opportunity Charter School,6-12,1,0,0,0,,,(n/a),,0
+Lackawanna,Erie,Global Concepts Charter School,K-12,1,0,0,0,,,(n/a),,0
+Newark,Wayne,Ontario-Seneca-Yates-Cayuga-Wayne Boces,,1,0,0,0,,,(n/a),,0
+Gilboa,Schoharie,Gilboa-Conesville Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+New Hartford,Oneida,Oneida-Herkimer-Madison Boces,,1,0,0,0,,,(n/a),,0
+South Otselic,Chenango,Georgetown-South Otselic Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Sharon Springs,Schoharie,Sharon Springs Central School District,K-12,1,0,0,0,,,(n/a),,0
+Freeville,Tompkins,George Junior Republic Union Free School District,7-12,1,0,0,0,,,(n/a),,0
+New York,New York,Nyc Special Schools - District 75,,30,15,11,1,,,(n/a),,0
+Belmont,Allegany,Genesee Valley Central School District,"PK, KG-12",1,0,1,0,,,(n/a),,0
+Troy,Rensselaer,North Greenbush Common School District (Williams),K-1,0,1,0,0,,,(n/a),,0
+Le Roy,Genesee,Genesee Valley Boces,,1,0,0,0,,,(n/a),,0
+Rome,Oneida,New York State School For The Deaf,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Friendship,Allegany,Friendship Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Rensselaer,Rensselaer,New York State Office Of Children And Family Services (Ocfs),6-12,7,0,4,0,,,(n/a),,0
+Malone,Franklin,Franklin-Essex-Hamilton Boces,,1,0,0,0,,,(n/a),,0
+Albany,Albany,New York State Department Of Corrections,,0,0,0,0,,,(n/a),,0
+Brooklyn,Kings,Uft Charter School,1-12,1,0,0,0,,,(n/a),,0
+New York,New York,New York Center For Autism Charter School,1-3,0,1,0,0,,,(n/a),,0
+New Paltz,Ulster,Ulster Boces,,1,0,0,0,,,(n/a),,0
+New York,New York,New Heights Academy Charter School,5-12,1,0,0,0,,,(n/a),,0
+Franklin,Delaware,Franklin Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Pleasantville,Westchester,Mount Pleasant-Cottage Union Free School District,K-12,2,0,0,0,,,(n/a),,0
+Fort Edward,Washington,Fort Edward Union Free School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Bronx,Bronx,South Bronx Classical Charter School III,K-2,0,1,0,0,,,(n/a),,0
+Fishers Island,Suffolk,Fishers Island Union Free School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Morristown,St. Lawrence,Morristown Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Ocean Beach,Suffolk,Fire Island Union Free School District,"PK, KG-6",0,1,0,0,,,(n/a),,0
+Spencerport,Monroe,Monroe 2-Orleans Boces,,1,0,0,0,,,(n/a),,0
+Fillmore,Allegany,Fillmore Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Olmstedville,Essex,Minerva Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Brooklyn,Kings,Unity Preparatory Charter School Of Brooklyn,6-9,1,0,0,0,,,(n/a),,0
+Margaretville,Delaware,Margaretville Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Bronx,Bronx,Family Life Academy Charter School III,K-3,0,1,0,0,,,(n/a),,0
+Verona,Oneida,Madison-Oneida Boces,,1,0,0,0,,,(n/a),,0
+Brooklyn,Kings,Excellence Girls Charter School,K-12,1,0,0,0,,,(n/a),,0
+Chaumont,Jefferson,Lyme Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Rochester,Monroe,Eugenio Maria De Hostos Charter School,K-9,1,0,0,0,,,(n/a),,0
+Wading River,Suffolk,Little Flower Union Free School District,3-12,1,0,0,0,,,(n/a),,0
+Angola,Erie,Erie 2-Chautauqua-Cattaraugus Boces,,1,0,0,0,,,(n/a),,0
+Brooklyn,Kings,Leadership Preparatory Ocean Hill Charter School,K-11,1,0,0,0,,,(n/a),,0
+Utica,Oneida,Utica Academy Of Science Charter School,6-12,1,0,0,0,,,(n/a),,0
+Laurens,Otsego,Laurens Central School District,K-12,1,0,0,0,,,(n/a),,0
+West Seneca,Erie,Erie 1 Boces,,1,0,0,0,,,(n/a),,0
+Speculator,Hamilton,Lake Pleasant Central School District,"PK, KG-9",1,0,0,0,,,(n/a),,0
+Bronx,Bronx,Equality Charter School,6-11,1,0,0,0,,,(n/a),,0
+Monroe,Orange,Kiryas Joel Village Union Free School District,PK-K,0,1,0,0,,,(n/a),,0
+Elizabethtown,Essex,Elizabethtown-Lewis Central School District,K-12,1,0,0,0,,,(n/a),,0
+Stamford,Delaware,Stamford Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Edmeston,Otsego,Edmeston Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+New York,New York,Kipp Infinity Charter School,K-12,1,0,0,0,,,(n/a),,0
+Patchogue,Suffolk,Eastern Suffolk BOCES,,1,0,0,0,,,(n/a),,0
+Bronx,Bronx,Storefront Academy Charter School,K-2,0,1,0,0,,,(n/a),,0
+Poughkeepsie,Dutchess,Dutchess Boces,,1,0,0,0,,,(n/a),,0
+Brooklyn,Kings,Success Academy Charter School - Bensonhurst,K-3,0,1,0,0,,,(n/a),,0
+Bronx,Bronx,Dr Richard Izquierdo Health And Science Charter School,6-12,1,0,0,0,,,(n/a),,0
+Bronx,Bronx,Success Academy Charter School - Bronx 4,K-3,0,1,0,0,,,(n/a),,0
+Van Hornesville,Herkimer,Van Hornesville-Owen D Young Central School District,K-12,1,0,0,0,,,(n/a),,0
+Springfield Gardens,Queens,Success Academy Charter School - Springfield Gardens,K-3,0,1,0,0,,,(n/a),,0
+Rochester,Monroe,Vertus Charter School,9-11,1,0,0,0,,,(n/a),,0
+Bronx,Bronx,Kipp Academy Charter School,K-12,1,0,0,0,,,(n/a),,0
+Downsville,Delaware,Downsville Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Keene Valley,Essex,Keene Central School District,K-12,1,0,0,0,,,(n/a),,0
+New York,New York,Democracy Preparatory Charter School,6-12,1,0,0,0,,,(n/a),,0
+Staten Island,Richmond,John W Lavelle Preparatory Charter School,3-12,1,0,0,0,,,(n/a),,0
+New York,New York,Democracy Prep Harlem Charter School,K-12,1,0,0,0,,,(n/a),,0
+Jefferson,Schoharie,Jefferson Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+New York,New York,Democracy Prep Endurance Charter School,6-10,1,0,0,0,,,(n/a),,0
+New York,New York,Success Academy Charter School-Harlem 2,K-9,1,0,0,0,,,(n/a),,0
+Wainscott,Suffolk,Wainscott Common School District,K-3,0,1,0,0,,,(n/a),,0
+New York,New York,Success Academy Charter School-Harlem 4,K-9,1,0,0,0,,,(n/a),,0
+Norwich,Chenango,Delaware-Chenango-Madison-Otsego Boces,,1,0,0,0,,,(n/a),,0
+Brooklyn,Kings,International Charter School Of New York (The),K-2,0,1,0,0,,,(n/a),,0
+Crown Point,Essex,Crown Point Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Jamaica,Queens,Success Academy Charter School-Nyc 13,K-1,0,1,0,0,,,(n/a),,0
+Copenhagen,Lewis,Copenhagen Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Brooklyn,Kings,Success Academy Charter School-Nyc 8,K-1,0,1,0,0,,,(n/a),,0
+Brooklyn,Kings,Coney Island Preparatory Public Charter School,K-12,1,0,0,0,,,(n/a),,0
+Inlet,Hamilton,Inlet Common School District,"PK, KG-6",0,1,0,0,,,(n/a),,0
+Brooklyn,Kings,Compass Charter School,K-3,0,1,0,0,,,(n/a),,0
+Indian Lake,Hamilton,Indian Lake Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Colton,St. Lawrence,Colton-Pierrepont Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Liberty,Sullivan,Sullivan Boces,,1,0,0,0,,,(n/a),,0
+Brooklyn,Kings,Collegiate Academy-Math-Personal Awa,6,0,0,0,1,,,(n/a),,0
+Brooklyn,Kings,Summit Academy Charter School,6-12,1,0,0,0,,,(n/a),,0
+Fort Edward,Washington,Washington-Saratoga-Warren-Hamilton-Essex Boces,,1,0,0,0,,,(n/a),,0
+De Kalb Junction,St. Lawrence,Hermon-Dekalb Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Cobleskill,Schoharie,Cobleskill-Richmondville Central School District,"PK, KG-12",1,3,0,0,,,(n/a),,0
+Syracuse,Onondaga,Syracuse Academy Of Science Charter School,K-12,1,0,0,0,,,(n/a),,0
+Clymer,Chautauqua,Clymer Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+New York,New York,Harlem Village Academy Leadership Charter School,K-12,1,0,0,0,,,(n/a),,0
+Plattsburgh,Clinton,Clinton-Essex-Warren-Washington Boces,,1,0,0,0,,,(n/a),,0
+Canton,St. Lawrence,Saint Lawrence-Lewis Boces,,1,0,0,0,,,(n/a),,0
+Cherry Valley,Otsego,Cherry Valley-Springfield Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Romulus,Seneca,Romulus Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Buffalo,Erie,Charter School Of Inquiry,K-3,0,1,0,0,,,(n/a),,0
+Jackson Heights,Queens,Renaissance Charter School,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Buffalo,Erie,Charter School For Applied Technologies,K-12,1,0,0,0,,,(n/a),,0
+Prattsburgh,Steuben,Prattsburgh Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Bronx,Bronx,Charter High School For Law And Social Justice,9-10,1,0,0,0,,,(n/a),,0
+Medina,Orleans,Orleans-Niagara Boces,,1,0,0,0,,,(n/a),,0
+Davenport,Delaware,Charlotte Valley Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Painted Post,Steuben,Schuyler-Steuben-Chemung-Tioga-Allegany Boces,,1,0,0,0,,,(n/a),,0
+Brooklyn,Kings,Central Brooklyn Ascend Charter School,K-3,0,1,0,0,,,(n/a),,0
+Syracuse,Onondaga,Onondaga-Cortland-Madison Boces,,1,0,0,0,,,(n/a),,0
+Auburn,Cayuga,Cayuga-Onondaga Boces,,1,0,0,0,,,(n/a),,0
+Shelter Island,Suffolk,Shelter Island Union Free School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Olean,Cattaraugus,Cattaraugus-Allegany-Erie-Wyoming Boces,,1,0,0,0,,,(n/a),,0
+Newcomb,Essex,Newcomb Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+New York,New York,Capital Preparatory (Cp) Harlem Charter School,6-7,0,0,0,1,,,(n/a),,0
+Albany,Albany,New York State Office Mental Health (Omh),1-12,10,0,0,0,,,(n/a),,0
+Wells,Hamilton,Wells Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+New Suffolk,Suffolk,New Suffolk Common School District,"PK, KG-6",0,1,0,0,,,(n/a),,0
+Canaseraga,Allegany,Canaseraga Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Valhalla,Westchester,Mount Pleasant-Blythedale Union Free School District,K-12,1,0,0,0,,,(n/a),,0
+Buffalo,Erie,Buffalo Academy Of Science Charter School,5-12,1,0,0,0,,,(n/a),,0
+Morris,Otsego,Morris Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Brooklyn,Kings,Brownsville Collegiate Charter School,5-10,1,0,0,0,,,(n/a),,0
+Milford,Otsego,Milford Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Binghamton,Broome,Broome-Delaware-Tioga Boces,,1,0,0,0,,,(n/a),,0
+Madison,Madison,Madison Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Brooklyn,Kings,Brooklyn Prospect Charter School - Downtown,6,0,0,0,1,,,(n/a),,0
+Lisbon,St. Lawrence,Lisbon Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Brooklyn,Kings,Brooklyn Prospect Charter School,K-12,1,0,0,0,,,(n/a),,0
+Lancaster,Erie,Lancaster Central School District,K-12,0,5,1,1,,,(n/a),,0
+Brooklyn,Kings,Brooklyn Ascend Charter School,K-10,1,0,0,0,,,(n/a),,0
+New York,New York,Kipp Star College Prep Charter,K-12,1,0,0,0,,,(n/a),,0
+Brookfield,Madison,Brookfield Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Munnsville,Madison,Stockbridge Valley Central School District,K-12,1,0,0,0,,,(n/a),,0
+West Park,Ulster,West Park Union Free School District,,0,0,0,0,,,(n/a),,0
+Brooklyn,Kings,Success Academy Charter School - Bergen Beach,K-3,0,1,0,0,,,(n/a),,0
+Bronx,Bronx,Bronx Preparatory Charter School,6-12,1,0,0,0,,,(n/a),,0
+New York,New York,Success Academy Charter School - Washington Heights,K-3,0,1,0,0,,,(n/a),,0
+West Valley,Cattaraugus,West Valley Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+North Creek,Warren,Johnsburg Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Bronx,Bronx,Bronx Lighthouse Charter School,K-12,1,0,0,0,,,(n/a),,0
+New York,New York,Success Academy Charter School-Harlem 1,K-11,1,0,0,0,,,(n/a),,0
+Rye Brook,Westchester,Westchester Boces,,1,0,0,0,,,(n/a),,0
+New York,New York,Inwood Academy For Leadership Charter School,5-11,1,0,0,0,,,(n/a),,0
+Bronx,Bronx,Bronx Charter School For Excellence 2,K-1,0,1,0,0,,,(n/a),,0
+Far Rockaway,Queens,Success Academy Charter School-Nyc 4,K-1,0,1,0,0,,,(n/a),,0
+Dix Hills,Suffolk,Western Suffolk BOCES,,1,0,0,0,,,(n/a),,0
+Philadelphia,Jefferson,Indian River Central School District,"PK, KG-12",0,6,1,1,,,(n/a),,0
+Bronx,Bronx,Bronx Charter School For Better Learning II,K-1,0,1,0,0,,,(n/a),,0
+Hinsdale,Cattaraugus,Hinsdale Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Bridgehampton,Suffolk,Bridgehampton Union Free School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Herkimer,Herkimer,Herkimer-Fulton-Hamilton-Otsego Boces,,1,0,0,0,,,(n/a),,0
+Bradford,Schuyler,Bradford Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Roxbury,Delaware,Roxbury Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Bronx,Bronx,Boys Preparatory Charter School Of New York,K-3,0,1,0,0,,,(n/a),,0
+Rochester,Monroe,Rochester Prep Charter School 3,K,0,1,0,0,,,(n/a),,0
+Bolton Landing,Warren,Bolton Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Mexico,Oswego,Oswego Boces,,1,0,0,0,,,(n/a),,0
+Westport,Essex,Westport Central School District,K-12,1,0,0,0,,,(n/a),,0
+Scio,Allegany,Scio Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Bellmore,Nassau,Bellmore Union Free School District,"PK, KG-6",0,2,0,1,,,(n/a),,0
+Chestertown,Warren,North Warren Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Adams,Jefferson,Belleville-Henderson Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+New York,New York,New York City Charter School Of The Arts,6,0,0,0,1,,,(n/a),,0
+Belfast,Allegany,Belfast Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Bronx,Bronx,South Bronx Community Charter High School,9,1,0,0,0,,,(n/a),,0
+Avoca,Steuben,Avoca Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+South Kortright,Delaware,South Kortright Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Arkport,Steuben,Arkport Central School District,K-12,1,0,0,0,,,(n/a),,0
+Brooklyn,Kings,Leadership Preparatory Bedford Stuyvesant Charter School,K-12,1,0,0,0,,,(n/a),,0
+Whitesville,Allegany,Whitesville Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+New York,New York,Kipp Nyc Washington Heights Academy Charter School,K-9,1,0,0,0,,,(n/a),,0
+Andover,Allegany,Andover Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Rosedale,Queens,Success Academy Charter School - Rosedale,K-3,0,1,0,0,,,(n/a),,0
+Andes,Delaware,Andes Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Watertown,Jefferson,Jefferson-Lewis-Hamilton-Herkimer-Oneida Boces,,1,0,0,0,,,(n/a),,0
+New York,New York,Amber Charter School II,K-1,0,1,0,0,,,(n/a),,0
+Brooklyn,Kings,Success Academy Charter School-Nyc 10,K-1,0,1,0,0,,,(n/a),,0
+Amagansett,Suffolk,Amagansett Union Free School District,"PK, KG-11",1,0,0,0,,,(n/a),,0
+Bronx,Bronx,Hyde Leadership Charter School,K-12,1,0,0,0,,,(n/a),,0
+Alden,Erie,Alden Central School District,K-12,0,3,1,0,,,(n/a),,0
+Hawthorne,Westchester,Hawthorne-Cedar Knolls Union Free School District,K-12,3,1,0,0,,,(n/a),,0
+Albany,Albany,Albany-Schoharie-Schenectady-Saratoga Boces,,1,0,0,0,,,(n/a),,0
+Yorktown Heights,Westchester,Putnam-Westchester Boces,,1,0,0,0,,,(n/a),,0
+Willsboro,Essex,Willsboro Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Albany,Albany,Nys Office For People With Developmental Disabilities,,0,0,0,0,,,(n/a),,0
+Brooklyn,Kings,Achievement First-Bushwick Charter School,K-12,1,0,0,0,,,(n/a),,0
+Garden City,Nassau,Nassau Boces,,1,0,0,0,,,(n/a),,0
+Windham,Greene,Windham-Ashland-Jewett Central School District,K-12,1,0,0,0,,,(n/a),,0
+Long Lake,Hamilton,Long Lake Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Brooklyn,Kings,Achievement First Voyager Charter School,5,0,0,0,1,,,(n/a),,0
+Brooklyn,Kings,KIPP Always Mentally Prepared Charter School,K-12,1,0,0,0,,,(n/a),,0
+Worcester,Otsego,Worcester Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+New York,New York,Success Academy Charter School-Harlem 3,K-9,1,0,0,0,,,(n/a),,0
+Brooklyn,Kings,Achievement First North Brooklyn Preparatory Charter School,K-3,0,1,0,0,,,(n/a),,0
+Heuvelton,St. Lawrence,Heuvelton Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Brooklyn,Kings,Achievement First Linden Charter School,K-3,0,1,0,0,,,(n/a),,0
+New York,New York,School In The Square Public Charter School,6,0,0,0,1,,,(n/a),,0
+Brooklyn,Kings,Achievement First Endeavor Charter School,K-12,1,0,0,0,,,(n/a),,0
+Fairport,Monroe,Monroe 1 Boces,,1,0,0,0,,,(n/a),,0
+Brooklyn,Kings,Kings Collegiate Charter School,5-12,1,0,0,0,,,(n/a),,0
+Hempstead,Nassau,Academy Charter School,K-9,1,0,0,0,,,(n/a),,0
+Brooklyn,Kings,Achievement First Brownsville Charter School,K-9,1,0,0,0,,,(n/a),,0
+Brooklyn,Kings,Achievement First Crown Heights Charter School,K-12,1,0,0,0,,,(n/a),,0
+Brooklyn,Kings,Achievement First East New York Charter School,K-12,1,0,0,0,,,(n/a),,0
+Brooklyn,Kings,Success Academy Charter School-Nyc 9,K-1,0,1,0,0,,,(n/a),,0
+La Fargeville,Jefferson,La Fargeville Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
+Batavia,Genesee,New York State School For The Blind,2-12,1,0,0,0,,,(n/a),,0
+Roscoe,Sullivan,Roscoe Central School District,"PK, KG-12",1,0,0,0,,,(n/a),,0
